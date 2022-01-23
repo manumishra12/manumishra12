@@ -94,13 +94,11 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 - 🔥 KEEP MOVING!!
 
-- 🔭 I’m currently working on My WordPress Blog, Medium Profile
-
 - 🌱 I’m currently learning TypeScript, React, Flask 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript,Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, JavaScript,Freelancing,Open Source 
 
 <!-- [![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&labelColor=white&logo=quora&logoColor=red)](https://www.quora.com/profile/Hariket-Sukeshkumar-Sheth) -->
 
