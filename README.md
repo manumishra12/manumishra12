@@ -1,9 +1,13 @@
+<!-- 
+README FILE GITHUB
+ -->
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Manu Mishra</h1>
 <h5 align="center">
-A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai.
+A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
 </h5>
 
 <h3 align="center" style="color:yellow;" >About Me</h3>  
@@ -21,7 +25,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div align="center">
 
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  [![SQL Badge](https://img.shields.io/badge/SQL-239120?&style=for-the-badge&logo=sql3&logoColor=white)](#) 
 
 </div>
 <h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
@@ -31,6 +35,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
+<img src="https://img.shields.io/badge/AdobeXD-b0331a?style=for-the-badge&logo=AdobeXD&logoColor=white">
 </p>
 
 
@@ -50,10 +55,6 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats)
 
 </p>
-
-
-<!-- <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p> -->
-
 - 📫 How to reach me **connectmanumishra@gmail.com**
 <br><br>
 <hr>
@@ -73,38 +74,25 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/manumishra12)
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/HariketSheth)](https://twitter.com/HariketSheth) -->
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/manu-mishra-688487211/)
 
-<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics) -->
+
 
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_mishramanu_/)
-</p>
 
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/HariketSheth)](https://twitter.com/HariketSheth) -->
+
+<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics) -->
+
+</p>
 
 <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔥 KEEP MOVING!!
-
-- 🌱 I’m currently learning TypeScript, React, Flask 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python,Freelancing,Open Source 
-
-<!-- [![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&labelColor=white&logo=quora&logoColor=red)](https://www.quora.com/profile/Hariket-Sukeshkumar-Sheth) -->
-
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&labelColor=white&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/14498035/hariket-sukesh-kumar-sheth)
-
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7012335112/?text=Hi%20Hariket) -->
 
 
 
