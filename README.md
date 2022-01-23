@@ -34,15 +34,19 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /> </p>
+
+
 <p>
+
 <a align= "center" href="https://github.com/manumishra12">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&theme=radical">
 
-</p>
+
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact&theme=calm)](https://github.com/manumishra12/github-readme-stats)
 
+</p>
 
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
@@ -91,18 +95,21 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<!-- #Connect social media -->
+<!-- <h3 align="center">Connect with me:</h3>
+<p align="center"> -->
 
 <!-- <a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 
-<a href="https://www.instagram.com/_mishramanu_/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_mishramanu_" height="50" width="50" /></a>
+<!-- <a href="https://www.instagram.com/_mishramanu_/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_mishramanu_" height="50" width="50" /></a>
 </p>
-<hr>
+<hr> -->
 
+<!-- #Snake contribution -->
 <!-- <p align="center">
   <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+
 
 
 
