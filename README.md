@@ -67,7 +67,8 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 </p>
 
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect</h3> 
+<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >  
 <div align="center" >
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/manumishra12)
@@ -86,8 +87,9 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<h3>KEEP MOVING!!<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</h3>
+
+<h3 style="color:BLUE;margin-bottom: 20px;">KEEP MOVING!!</h3><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 
 
