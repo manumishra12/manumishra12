@@ -31,6 +31,26 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
 </p>
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/python.svg'> </a>
+
+<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+
+<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+
+
+
+<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/c.svg'> </a>
+
+<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+
+<!-- <a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> -->
+
+<!-- <a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a> -->
+
+<!-- <a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /></p>
 
 <p>
@@ -75,11 +95,17 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics) -->
 
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_mishramanu_/)
+</p>
 
 
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)
+<h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 
 <!-- [![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&labelColor=white&logo=quora&logoColor=red)](https://www.quora.com/profile/Hariket-Sukeshkumar-Sheth) -->
 
@@ -87,7 +113,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7012335112/?text=Hi%20Hariket) -->
 
-</p>
+
 
 <!-- #Connect social media -->
 <!-- <h3 align="center">Connect with me:</h3>
@@ -103,6 +129,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <!-- <p align="center">
   <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+
 
 
 
