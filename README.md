@@ -1,11 +1,39 @@
-### Hi there 👋
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Manu Mishra</h1>
 <h5 align="center">
-A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai. I am a UI/UX and Robotics enthusiast, Web developer, and a Photographer. 
+A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai.
 </h5>
+
+<h3 align="center" style="color:yellow;" >About Me</h3>  
+ <div align="center">
+👨🏻‍🎓 Vellore Institute of Technology, Chennai
+<br>🤖 Web & UI/UX Enthusiast
+<br>⚒️ Focusing on Contributing to Open Source and several projects💜
+<br>👨‍💻 Learning Java, React, Flutter and PHP
+<br>🛸 Robotics enthusiast
+<br>📸 Photographer
+ </div>
+
+<h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
+<div align="center">
+
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  
+
+</div>
+<h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
+<p align="center">
+ <img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
+
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /> </p>
 <p>
 <a align= "center" href="https://github.com/manumishra12">
