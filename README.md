@@ -88,10 +88,19 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 
-<h3 style="color:BLUE;margin-bottom: 20px;">KEEP MOVING!!</h3><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
+- 🔥 KEEP MOVING!!
 
+- 🔭 I’m currently working on My WordPress Blog, Medium Profile
+
+- 🌱 I’m currently learning TypeScript, React, Flask 
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
+
+- 💬 Talk to me about Python, JavaScript,Freelancing Opportunites, Open Source 
 
 <!-- [![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&labelColor=white&logo=quora&logoColor=red)](https://www.quora.com/profile/Hariket-Sukeshkumar-Sheth) -->
 
