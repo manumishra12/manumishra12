@@ -24,20 +24,16 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 </div>
 <h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
 <p align="center">
- <img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /></p>
 
 <p>
-
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 <a align= "center" href="https://github.com/manumishra12">
@@ -46,11 +42,9 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" />
 <br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats)
-
-
-
 
 </p>
 
@@ -67,7 +61,6 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <div align="center" >
  
 [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manu_Mishra)
-
 </p>
 
 
@@ -81,11 +74,10 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/manu-mishra-688487211/)
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics) -->
-<br>
+
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_mishramanu_/)
 
-<br>
 
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)
 
@@ -111,6 +103,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <!-- <p align="center">
   <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+
 
 
 
