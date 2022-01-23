@@ -60,14 +60,14 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 </p>
 <br/>
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Coding Profiles</h3>  
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >⚓Coding Profiles</h3>  
 <div align="center" >
  
 [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manu_Mishra)
 </p>
 
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect</h3> 
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >🔗Lets Connect</h3> 
 <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >  
 <div align="center" >
 
