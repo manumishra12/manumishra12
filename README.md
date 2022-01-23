@@ -38,6 +38,8 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 <p>
 
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+
 <a align= "center" href="https://github.com/manumishra12">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&theme=radical">
 <br>
@@ -45,11 +47,10 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" />
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=calm)](https://github.com/manumishra12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats)
 
 
 
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 </p>
 
@@ -110,6 +111,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <!-- <p align="center">
   <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+
 
 
 
