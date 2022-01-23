@@ -34,16 +34,13 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /> </p>
-
-
 <p>
 
 <a align= "center" href="https://github.com/manumishra12">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&theme=radical">
-
-
+<br>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" />
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact&theme=calm)](https://github.com/manumishra12/github-readme-stats)
 
 </p>
