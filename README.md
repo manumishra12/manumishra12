@@ -55,6 +55,8 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats)
 
 </p>
+<!-- <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p> -->
+
 - 📫 How to reach me **connectmanumishra@gmail.com**
 <br><br>
 <hr>
