@@ -1,12 +1,17 @@
 <!-- 
 README FILE GITHUB
  -->
+ 
+<!-- My Template Image  -->
 ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Manu Mishra</h1>
 <h5 align="center">
+ 
+ 
+<!--About Me -->
 A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
 </h5>
 
@@ -20,6 +25,9 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <br>📸 Photographer
  </div>
 
+
+
+<!--My Skills and Current Learning Badges  -->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> 
 
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
@@ -57,18 +65,22 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 </p>
 <!-- <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p> -->
 
+
+<!-- Mail ID Links  -->
 - 📫 How to reach me **connectmanumishra@gmail.com**
 <br><br>
 <hr>
 
 </p>
 <br/>
+
+
+<!-- Social Media Handel Links  -->
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >⚓Coding Profiles</h3>  
 <div align="center" >
  
 [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manu_Mishra)
 </p>
-
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >🔗Lets Connect</h3> 
 <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >  
@@ -76,28 +88,31 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/manumishra12)
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/manu-mishra-688487211/)
-
-
 
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_mishramanu_/)
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/HariketSheth)](https://twitter.com/HariketSheth) -->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/)](https://twitter.com/ManuMis69128338)
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics) -->
 
 </p>
 
+
+<!-- CODE EAT SLEEP REPEAT Gify -->
 <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
+<!-- Contribution Tracking Chart -->
+[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)
+<hr>
+
+<!-- Github  Cat Climbing -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)
+
 
 
 
