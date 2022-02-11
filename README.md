@@ -98,6 +98,24 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- OTHER STUFF COMMENTED -->
 <!-- #Connect social media -->
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center"> -->
