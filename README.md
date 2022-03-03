@@ -71,7 +71,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <p>
 <!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
-<img align="right" height="350" width="500" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" /> </a>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" /> </a>
 
 
 <a align= "center" href="https://github.com/manumishra12">
