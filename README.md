@@ -130,6 +130,11 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 [![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)
 <hr>
 
+<!-- SNAKE GRID -->
+<p align="center">
+  <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!-- Github  Cat Climbing -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
