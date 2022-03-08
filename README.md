@@ -132,7 +132,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 <!-- SNAKE GRID -->
 <p align="center">
-  <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/manumishra12/manumishra12/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!-- Github  Cat Climbing -->
