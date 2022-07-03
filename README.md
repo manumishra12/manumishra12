@@ -6,23 +6,23 @@ README FILE GITHUB
 
 <!-- ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1>Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Manu Mishra</h1>
-<h5 align="center">
+<h5 >
  
  
 <!--About Me -->
 A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
 </h5>
 
-<h3 align="center" style="color:yellow;" >About Me</h3>  
- <div align="center">
+<h3 style="color:yellow;" >About Me</h3>  
+ <div>
 👨🏻‍🎓 Vellore Institute of Technology, Chennai
 <br>🤖 Web & UI/UX Enthusiast
-<br>⚒️ Focusing on Contributing to Open Source and several projects💜
-<br>👨‍💻 Learning Java, React, Flutter and PHP
+<br>⚒️ Focusing on Contributing to Open Source and several projects
+<br>👨‍💻 Learning Java, React, Flutter and Flask
 <br>🛸 Robotics enthusiast
 <br>📸 Photographer
 </div>
@@ -30,17 +30,22 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 
 <!--My Skills and Current Learning Badges  -->
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=45px> </h2> 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
 
-<h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
-<div align="center">
+<h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
+<div>
 
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  [![SQL Badge](https://img.shields.io/badge/SQL-239120?&style=for-the-badge&logo=sql3&logoColor=white)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)  [![Flask Badge](https://img.shields.io/badge/Flask-239120?&style=for-the-badge&logo=sql3&logoColor=white)](#)  [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) 
+ 
+[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  [![SQL Badge](https://img.shields.io/badge/SQL-239120?&style=for-the-badge&logo=sql3&logoColor=white)](#)  
+  
 
  
 <p align="center"> 
 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+ 
+<!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  -->
  
 
 <!-- EXTRA BADGES -->
@@ -54,9 +59,11 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
  
 </p> 
  
+ <br>
+ 
 </div>
-<h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
-<p align="center">
+<h3 style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
+<p>
 <img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
@@ -92,21 +99,19 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 - 📫 How to reach me **connectmanumishra@gmail.com**
 <br><br>
 <hr>
-
 </p>
-<br/>
 
 
 <!-- Social Media Handel Links  -->
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >⚓Coding Profiles</h3>  
-<div align="center" >
+<h4  style="color:yellow;margin-bottom: 20px;" >◻ Coding Profiles 💻</h4>  
+<div >
  
 [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manu_Mishra)
 </p>
+<br>
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >🔗Lets Connect</h3> 
-<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >  
-<div align="center" >
+<h4 style="color:yellow;margin-bottom: 20px;" >◻ Lets Connect <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;">  </h4>
+<div>
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/manumishra12)    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/manu-mishra-688487211/)       [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)           [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_mishramanu_/)     [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/)](https://twitter.com/ManuMis69128338)
 
@@ -115,13 +120,17 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 </p>
 
 
+
 <!-- CODE EAT SLEEP REPEAT Gify -->
 <!--  <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
 <hr>
 
+
+
 <!-- Contribution Tracking Chart -->
 [![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)
 <hr>
+
 
 <!-- SNAKE GRID -->
 <p align="center">
