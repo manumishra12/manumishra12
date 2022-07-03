@@ -37,7 +37,7 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)  [![Flask Badge](https://img.shields.io/badge/Flask-239120?&style=for-the-badge&logo=sql3&logoColor=white)](#)  [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) 
  
-[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  [![SQL Badge](https://img.shields.io/badge/SQL-239120?&style=for-the-badge&logo=sql3&logoColor=white)](#)  
+[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
   
 
  
@@ -128,9 +128,11 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 
 
 <!-- Contribution Tracking Chart -->
-[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)
-<hr>
+<!--[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)-->
 
+
+[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=github)](https://github.com/manumishra12/github-readme-activity-graph)
+<hr>
 
 <!-- SNAKE GRID -->
 <p align="center">
