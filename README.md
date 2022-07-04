@@ -6,18 +6,16 @@ README FILE GITHUB
 
 <!-- ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg) -->
 
-<h1>Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Manu Mishra</h1>
-<h5 >
+<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Manu Mishra
+</h1>
+<h5>
  
  
 <!--About Me -->
 A 1st-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
-</h5>
 
-<h3 style="color:yellow;" >About Me</h3>  
+
+<h3 style="color:yellow;" > About Me </h3>  
  <div>
 👨🏻‍🎓 Vellore Institute of Technology, Chennai
 <br>🤖 Web & UI/UX Enthusiast
@@ -27,6 +25,17 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <br>📸 Photographer
 </div>
 
+<hr>
+<br>
+
+You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;"> :
+<p align="left">
+<a href="https://www.linkedin.com/in/manu-mishra-688487211/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://hashnode.com/@ManuMishra12"> <img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="mailto:connectmanumishra@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_mishramanu_/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/ManuMis69128338"> <img title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/Manu_Mishra"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 
 <!--My Skills and Current Learning Badges  -->
@@ -63,6 +72,10 @@ A 1st-year student pursuing Bachelors in Computer science studies from Vellore I
 <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<br>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+
  
  <!-- <img src="https://img.shields.io/badge/AdobeXD-b0331a?style=for-the-badge&logo=AdobeXD&logoColor=white"> -->
 <!-- ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
