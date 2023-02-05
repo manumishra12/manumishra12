@@ -103,8 +103,10 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <br>
 
 
-[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=github)](https://github.com/manumishra12/github-readme-activity-graph)
+<!-- [![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=github)](https://github.com/manumishra12/github-readme-activity-graph) 
 <hr>
+
+-->
 
 
 
