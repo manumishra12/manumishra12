@@ -9,7 +9,7 @@
  
  
 <!--About Me -->
-A 2nd-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
+A 3rd-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
 
 
 
