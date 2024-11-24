@@ -3,21 +3,46 @@
 <!-- My Template Image  -->
 <!-- ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg) -->
 
-<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Manu Mishra
-</h1>
+<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Manu Mishra </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /></p>
  
  
 <!--About Me -->
 
-<h3 style="color:yellow;" > About Me </h3>  
+## About Me
+🔭 **Undergraduate Senior** in Computer Science and Engineering at **Vellore Institute of Technology, Chennai**.
 
-🔭 I'm an undergraduate senior pursuing a **Bachelor's in Computer Science and Engineering** from **Vellore Institute of Technology, Chennai**.  
-🌱 Currently, I'm exploring **AI and Machine Learning**, with a strong focus on **Deep Learning** and **Generative AI**.  
-👩‍💻 My technical interests span across **Full-stack Development**, **Cloud Computing**, **Internet of Things (IoT)**, and **System Design**.  
-🎯 I enjoy working in teams on innovative projects and hackathons.  
-🎵 I love music listening and photography! 🎶  
+<br>
 
+🌱 **Technology**:  
+I am passionate about building scalable and impactful solutions in **Software Development**, **AI/ML**, and **Cloud Computing**. My focus includes:
+- **AI & Machine Learning**: Interested in developing and deploying models for a variety of applications, working with **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, working on machine architecture and utilizing **NPUs** for efficient problem-solving.
+- **Software and System Design**: Love working on **Software Development**, Proficient in **Full-stack Development** with frameworks like **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**, as well as designing scalable and robust **system architectures**.
+- **Cloud Computing & DevOps**: Building cloud-native applications on **AWS**, **Google Cloud**, and **Azure**, with a strong interest in **MLOps** to streamline ML model deployment and lifecycle management.
+
+💡 **Business & Entrepreneurship**:  
+I have a keen interest in **startup development** and **growing tech businesses**. I am passionate about:
+- **Building Startups**: Crafting innovative business models, finding product-market fit, and scaling tech ventures.
+- **Tech-Driven Business Growth**: Exploring ways to bridge the gap between **cutting-edge technologies** and **business needs**, leveraging AI and software to create competitive advantages.
+- **Leadership & Mentorship**: Thriving in collaborative environments, especially in team settings, hackathons, and mentoring others in tech and entrepreneurship.
+
+📊 **Finance**:  
+With a growing interest in the financial markets, I’m diving into **quantitative finance**, **economics**, and **trading**:
+- **Quantitative Finance**: Exploring **algorithmic trading**, developing **quantitative models**, and working with financial data to build tools that predict market movements.
+- **Investment Strategies**: Understanding global financial markets and applying **economic theories** and **financial principles** to make informed investment decisions.
+- **FinTech**: Exploring the intersection of **finance** and **technology**, including areas like **blockchain**, **digital currencies**, and **AI in finance**.
+
+---
+
+🎯 I enjoy working on projects that combine my skills in **tech**, **business**, and **finance** to solve complex problems.
+
+🚀 As an aspiring **entrepreneur**, I aim to leverage my **technical** and **business** expertise to build impactful startups.
+
+🎵 In my free time, I love music and photography, drawing inspiration from both creativity and technology. 🎶
+
+  
+
+<br>
 <br>
 
 <!-- **Connnet with me** <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;"> -->
