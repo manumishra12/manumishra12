@@ -10,20 +10,21 @@
 <!--About Me -->
 
 ## About Me
+
+
 🔭 **Undergraduate Senior** in Computer Science and Engineering at **Vellore Institute of Technology, Chennai**.
 
 <br>
 
 🌱 **Technology**:  
 I am passionate about building scalable and impactful solutions in **Software Development**, **AI/ML**, and **Cloud Computing**. My focus includes:
-- **AI & Machine Learning**: Interested in developing and deploying models for a variety of applications, working with **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, working on machine architecture and utilizing **NPUs** for efficient problem-solving.
+- **AI & Machine Learning**: Interested in developing and deploying models for a variety of applications, working with **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, and machine architecture utilizing **NPUs**.
 - **Software and System Design**: Love working on **Software Development**, Proficient in **Full-stack Development** with frameworks like **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**, as well as designing scalable and robust **system architectures**.
 - **Cloud Computing & DevOps**: Building cloud-native applications on **AWS**, **Google Cloud**, and **Azure**, with a strong interest in **MLOps** to streamline ML model deployment and lifecycle management.
 
 💡 **Business & Entrepreneurship**:  
 I have a keen interest in **startup development** and **growing tech businesses**. I am passionate about:
 - **Building Startups**: Crafting innovative business models, finding product-market fit, and scaling tech ventures.
-- **Tech-Driven Business Growth**: Exploring ways to bridge the gap between **cutting-edge technologies** and **business needs**, leveraging AI and software to create competitive advantages.
 - **Leadership & Mentorship**: Thriving in collaborative environments, especially in team settings, hackathons, and mentoring others in tech and entrepreneurship.
 
 📊 **Finance**:  
