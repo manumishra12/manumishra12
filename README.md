@@ -18,20 +18,20 @@
 
 🌱 **Technology**:  
 I am passionate about building scalable and impactful solutions in **Software Development**, **AI/ML**, and **Cloud Computing**. My focus includes:
-- **AI & Machine Learning**: Interested in developing and deploying models for a variety of applications, working with **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, and machine architecture utilizing **NPUs**.
-- **Software and System Design**: Love working on **Software Development**, Proficient in **Full-stack Development** with frameworks like **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**, as well as designing scalable and robust **system architectures**.
-- **Cloud Computing & DevOps**: Building cloud-native applications on **AWS**, **Google Cloud**, and **Azure**, with a strong interest in **MLOps** to streamline ML model deployment and lifecycle management.
+- **AI & Machine Learning**: Developing and deploying models with **LLMs**, **VLMs**, and **NPUs** for various applications.
+- **Software and System Design**: Passionate about **SDE**, **Full-stack development**, **system designs** and robust **system architectures**.
+- **Cloud Computing & DevOps**: Building application with **cloud platforms** with a focus on **DevOps & MLOps** for ML deployment.
 
 💡 **Business & Entrepreneurship**:  
 I have a keen interest in **startup development** and **growing tech businesses**. I am passionate about:
 - **Building Startups**: Crafting innovative business models, finding product-market fit, and scaling tech ventures.
-- **Leadership & Mentorship**: Thriving in collaborative environments, especially in team settings, hackathons, and mentoring others in tech and entrepreneurship.
+- **Leadership & Mentorship**: Thriving in collaborative environments, including hackathons and mentoring in tech and entrepreneurship.
 
 📊 **Finance**:  
 With a growing interest in the financial markets, I’m diving into **quantitative finance**, **economics**, and **trading**:
-- **Quantitative Finance**: Exploring **algorithmic trading**, developing **quantitative models**, and working with financial data to build tools that predict market movements.
-- **Investment Strategies**: Understanding global financial markets and applying **economic theories** and **financial principles** to make informed investment decisions.
-- **FinTech**: Exploring the intersection of **finance** and **technology**, including areas like **blockchain**, **digital currencies**, and **AI in finance**.
+- **Quantitative Finance**: Exploring algorithmic trading and developing quantitative models to predict market movements.
+- **Investment Strategies**: Understanding global economic theories & financial principles to make informed investment decisions.
+- **FinTech**: Exploring the intersection of **finance** and **technology**, including areas like **blockchain**, **digital currencies**, etc.
 
 ---
 
