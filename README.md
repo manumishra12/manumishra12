@@ -34,33 +34,28 @@
  <br>
 
 ## 🏆 Experience
-### Junior Researcher  
-**Indian Institute of Technology (BHU), Varanasi** | *June 2024 - July 2024 | On-site*  
-- Developed a cuffless blood pressure estimation system using **ECG** and **PPG signals**, achieving high accuracy in systolic and diastolic predictions.
 
-### Software Developer Engineer Intern  
-**Growth Ventures, Bengaluru** | *February 2024 - May 2024 | Remote*  
+[**Junior Researcher**](https://iitbhu.ac.in/) **Indian Institute of Technology (BHU), Varanasi** | *June 2024 - July 2024 | On-site*  
+Developed a cuffless blood pressure estimation system using **ECG** and **PPG signals**, achieving high accuracy in systolic and diastolic predictions.
+
+[**Software Developer Engineer Intern**](https://www.linkedin.com/company/growthventures07/posts/?feedView=all) **Growth Ventures, Bengaluru** | *February 2024 - May 2024 | Remote*  
 Implemented new features, improved software functionality, and increased user satisfaction by 25% through rigorous testing.
 
-### Machine Learning Intern  
-**Growth Ventures, India** | *December 2023 - February 2024 | Remote*  
+[**Machine Learning Intern**](https://www.linkedin.com/company/growthventures07/posts/?feedView=all) **Growth Ventures, India** | *December 2023 - February 2024 | Remote*  
 Assisted in developing, optimizing, and evaluating machine learning models, and collaborated on designing new ML algorithms.
 
-### Full Stack Developer  
-**Startuply, India** | *August 2023 - Present | Remote*  
+[**Full Stack Developer**](https://media.licdn.com/dms/image/v2/D4D2DAQFBw18OVCTjJQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1698663301108?e=1733076000&v=beta&t=4CIJfXonWqsAA8EokQJvj6SD7jQlQhFgUWX7alAwWVk) **Startuply, India** | *August 2023 - Present | Remote*  
 Developed interactive applications, integrated APIs, and managed frontend and backend frameworks using **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**.
 
-### UI/UX Developer Intern  
-**RedeFin Capital, Hyderabad** | *May 2023 - September 2023 | Remote*  
+[**UI/UX Developer Intern**](https://redefincapital.com/) **RedeFin Capital, Hyderabad** | *May 2023 - September 2023 | Remote*  
 Designed wireframes and prototypes using **Figma** and **Adobe XD**, and collaborated with the product team to define user flows.
 
-### UI/UX Designer  
-**Nirji Ventures, Singapore** | *February 2023 - June 2023 | Remote*  
+[**UI/UX Designer**](https://www.nirji.com/) **Nirji Ventures, Singapore** | *February 2023 - June 2023 | Remote*  
 Collaborated on gathering requirements, developed wireframes, prototypes, and high-fidelity designs using **Adobe XD** and **Figma**.
 
-### Product Designer  
-**Youngify, Bengaluru, India** | *September 2021 - November 2021 | On-site*  
+[**Product Designer**](https://www.behance.net/gallery/146933343/Youngify-My-Startup-Client) **Youngify, Bengaluru, India** | *September 2021 - November 2021 | On-site*  
 Created **UI/UX Designs**, wireframes, and prototypes for product conceptualization and collaborated on user flows and design documentation.
+
 
 ---
 
