@@ -39,9 +39,7 @@ With a growing interest in the financial markets, I’m diving into **quantitati
 
 🚀 As an aspiring **entrepreneur**, I aim to leverage my **technical** and **business** expertise to build impactful startups.
 
-🎵 In my free time, I love music and photography, drawing inspiration from both creativity and technology. 🎶
-
-  
+🎵 In my free time, I love music and photography, drawing inspiration from both creativity and technology. 🎶  
 
 <br>
 <br>
@@ -113,6 +111,7 @@ Created **UI/UX Designs**, wireframes, and prototypes for product conceptualizat
 ---
 
 ## 🎖️ Achievements
+- **Patent**: Got my project patent **A System and Method for Automated Waste Segregation** (Application no: 202441064693)
 - **Smart India Hackathon 2023**: Led a team to secure **15th place** out of **100+ teams**, earning a spot as a grand finalist.
 - **Smart India Hackathon 2022**: Secured **second position** for developing a smart bin and a mobile application called "Money Plant" for smart waste segregation and recycling.
 - **IoT Hackathon**: Won the **first prize** for developing an automated and smart solution for waste management.
@@ -120,6 +119,57 @@ Created **UI/UX Designs**, wireframes, and prototypes for product conceptualizat
 - **Smart India Hackathon 2019**: Awarded the **first prize** for developing innovative solutions for pollution and garbage management. 
 
 ---
+
+
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" style="flex: 1; margin-right: 10px;"/>
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true" style="flex: 1;"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+<!-- [![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=github)](https://github.com/manumishra12/github-readme-activity-graph) -->
+
+<!-- SNAKE GRID -->
+<!--
+<p align="center">
+  <img src="https://github.com/manumishra12/manumishra12/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+-->
+
+<!-- Github  Cat Climbing -->
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+
+
+<p>
+  <!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />  -->
+  <!-- <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&theme=radical"> -->
+  
+  <!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" /> -->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats) -->
+
+</p>
 
 
 <!--
@@ -157,52 +207,6 @@ Created **UI/UX Designs**, wireframes, and prototypes for product conceptualizat
 
 </p>
 -->
- 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /></p> --> 
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" style="flex: 1; margin-right: 10px;"/>
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true" style="flex: 1;"/>
-</p>
-
-
-<p>
-  <!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />  -->
-  <!-- <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&theme=radical"> -->
-  
-  <!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" /> -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats) -->
-
-</p>
-
-
-
-
-
-
-<!-- [![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=github)](https://github.com/manumishra12/github-readme-activity-graph) -->
-
-<!-- SNAKE GRID -->
-<!--
-<p align="center">
-  <img src="https://github.com/manumishra12/manumishra12/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
--->
-
-<!-- Github  Cat Climbing -->
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
-
-
-
-
-
-
-
-
-
-<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
 
 
 
