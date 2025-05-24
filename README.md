@@ -71,7 +71,7 @@ Assisted in developing, optimizing, and evaluating machine learning models, and 
 [**Full Stack Developer**](https://media.licdn.com/dms/image/v2/D4D2DAQFBw18OVCTjJQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1698663301108?e=1733076000&v=beta&t=4CIJfXonWqsAA8EokQJvj6SD7jQlQhFgUWX7alAwWVk) **Startuply, India** | *August 2023 - Present | Remote*  
 Developed interactive applications, integrated APIs, and managed frontend and backend frameworks using **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**.
 
-[**UI/UX Developer Intern**](https://redefincapital.com/) **RedeFin Capital, Hyderabad** | *May 2023 - September 2023 | Remote*  
+[**Application Developer Intern**](https://redefincapital.com/) **RedeFin Capital, Hyderabad** | *May 2023 - September 2023 | Remote*  
 Designed wireframes and prototypes using **Figma** and **Adobe XD**, and collaborated with the product team to define user flows.
 
 [**UI/UX Designer**](https://www.nirji.com/) **Nirji Ventures, Singapore** | *February 2023 - June 2023 | Remote*  
