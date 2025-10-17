@@ -59,6 +59,15 @@ With a growing interest in the financial markets, I’m diving into **quantitati
 
 ## 🏆 Experience
 
+[**AI Engineer Intern**](http://mondee.com/) **Mondee, Hyderabad** | *Apr 2025 - Sep-2025 | On-site*  
+Designed prompts and built multi-agent GenAI workflows using LangChain, LangGraph, and custom ML models to power Aarna, an AI-driven travel assistant for generating personalized itineraries.
+
+[**Software Developer Intern**](https://www.digiquanta.com/) **DigiQuanta, Hyderabad** | *Jan 2025 - Mar 2025 | On-site*  
+Developed a lip-syncing pipeline using facial keypoint detection and temporal modeling for realistic multilingual videos, and built a voice-enabled medical assistant using speech recognition and GenAI for real-time health diagnostics.
+
+[**Research Intern**](https://www.iith.ac.in/) **Indian Institute of Technology, Hyderabad** | *Jan 2025 - present | On-site*  
+Currently working on Federated Learning and Class-Incremental Learning, focusing on privacy-preserving, scalable AI systems for continual model improvement.
+
 [**Junior Researcher**](https://iitbhu.ac.in/) **Indian Institute of Technology (BHU), Varanasi** | *June 2024 - July 2024 | On-site*  
 Developed a cuffless blood pressure estimation system using **ECG** and **PPG signals**, achieving high accuracy in systolic and diastolic predictions.
 
