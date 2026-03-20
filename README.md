@@ -1,353 +1,388 @@
-<!-- README FILE GITHUB -->
- 
-<!-- My Template Image  -->
-<!-- ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg) -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=120&section=header&text=%3E_%20Manu%20Mishra&fontSize=40&fontColor=c9d1d9&fontAlignY=50&desc=%5Bsoftware_engineer%5D%20%5Bai_ml%5D%20%5Bsystems_design%5D&descSize=14&descColor=484f58&descAlignY=75&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://manumishra.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%96%B8_portfolio-manumishra.vercel.app-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
+</a>
+&nbsp;
+<a href="https://alt-dev.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%96%B8_agency-alt--dev.vercel.app-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1i6gQboqXTqLXS9TT9L1ccPSZ3IWeJJlC/view?usp=sharing">
+<img src="https://img.shields.io/badge/%E2%96%B8_resume-download.pdf-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/manu-mishra-688487211/"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=6e7681" /></a>&nbsp;
+<a href="mailto:connectmanumishra@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=6e7681" /></a>&nbsp;
+<a href="https://github.com/manumishra12"><img src="https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=6e7681" /></a>&nbsp;
+<a href="https://twitter.com/ManuMis69128338"><img src="https://img.shields.io/badge/-X-161b22?style=flat-square&logo=x&logoColor=6e7681" /></a>&nbsp;
+<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
+<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a>
 
-<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Manu Mishra </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manumishra12&label=Profile%20views&color=0e75b6&style=flat" alt="manumishra12" /></p>
- 
- 
-<!--About Me -->
-
-## About Me
-
-
-🔭 **Undergraduate Senior** in Computer Science and Engineering at **Vellore Institute of Technology, Chennai**.
-
-<br>
-
-🌱 **Technology**:  
-I am passionate about building scalable and impactful solutions in **Software Development**, **AI/ML**, and **Cloud Computing**. My focus includes:
-- **AI & Machine Learning**: Developing and deploying models with **LLMs**, **VLMs**, and **NPUs** for various applications.
-- **Software and System Design**: Passionate about **SDE**, **Full-stack development**, **system designs** and robust **system architectures**.
-- **Cloud Computing & DevOps**: Building application with **cloud platforms** with a focus on **DevOps & MLOps** for ML deployment.
-
-💡 **Business & Entrepreneurship**:  
-I have a keen interest in **startup development** and **growing tech businesses**. I am passionate about:
-- **Building Startups**: Crafting innovative business models, finding product-market fit, and scaling tech ventures.
-- **Leadership & Mentorship**: Thriving in collaborative environments, including hackathons and mentoring in tech and entrepreneurship.
-
-📊 **Finance**:  
-With a growing interest in the financial markets, I’m diving into **quantitative finance**, **economics**, and **trading**:
-- **Quantitative Finance**: Exploring algorithmic trading and developing quantitative models to predict market movements.
-- **Investment Strategies**: Understanding global economic theories & financial principles to make informed investment decisions.
-- **FinTech**: Exploring the intersection of **finance** and **technology**, including areas like **blockchain**, **digital currencies**, etc.
-
----
-
-🎯 I enjoy working on projects that combine my skills in **tech**, **business**, and **finance** to solve complex problems.
-
-🚀 As an aspiring **entrepreneur**, I aim to leverage my **technical** and **business** expertise to build impactful startups.
-
-🎵 In my free time, I love music and photography, drawing inspiration from both creativity and technology. 🎶  
-
-<br>
-<br>
-
-<!-- **Connnet with me** <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;"> -->
-
-<p align="left">
-<a href="https://www.linkedin.com/in/manu-mishra-688487211/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://hashnode.com/@ManuMishra12"> <img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="mailto:connectmanumishra@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_mishramanu_/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/ManuMis69128338"> <img title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/Manu_Mishra"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-
- <br>
- <br>
-
-## 🏆 Experience
-
-[**AI Engineer Intern**](http://mondee.com/) **Mondee, Hyderabad** | *Apr 2025 - Sep-2025 | On-site*  
-Built an AI-driven agentic workflow using LangGraph, LangChain, and custom ML models to automate flight search, booking, and itinerary management through integrated APIs.
-
-[**Software Developer Intern**](https://www.digiquanta.com/) **DigiQuanta, Hyderabad** | *Jan 2025 - Mar 2025 | On-site*  
-Developed a multilingual videos, and built a voice-enabled medical assistant using speech recognition and GenAI for real-time health diagnostics.
-
-[**Research Intern**](https://www.iith.ac.in/) **Indian Institute of Technology, Hyderabad** | *Jan 2025 - present | On-site*  
-Currently working on Federated Learning and Class-Incremental Learning, focusing on privacy-preserving, scalable AI systems for continual model improvement.
-
-[**Junior Researcher**](https://iitbhu.ac.in/) **Indian Institute of Technology (BHU), Varanasi** | *June 2024 - July 2024 | On-site*  
-Developed a cuffless blood pressure estimation system using **ECG** and **PPG signals**, achieving high accuracy in systolic and diastolic predictions.
-
-[**Software Developer Engineer Intern**](https://www.linkedin.com/company/growthventures07/posts/?feedView=all) **Growth Ventures, Bengaluru** | *February 2024 - May 2024 | Remote*  
-Implemented new features, improved software functionality, and increased user satisfaction by 25% through rigorous testing.
-
-[**Machine Learning Intern**](https://www.linkedin.com/company/growthventures07/posts/?feedView=all) **Growth Ventures, India** | *December 2023 - February 2024 | Remote*  
-Assisted in developing, optimizing, and evaluating machine learning models, and collaborated on designing new ML algorithms.
-
-[**Full Stack Developer**](https://media.licdn.com/dms/image/v2/D4D2DAQFBw18OVCTjJQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1698663301108?e=1733076000&v=beta&t=4CIJfXonWqsAA8EokQJvj6SD7jQlQhFgUWX7alAwWVk) **Startuply, India** | *August 2023 - Present | Remote*  
-Developed interactive applications, integrated APIs, and managed frontend and backend frameworks using **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**.
-
-[**Application Developer Intern**](https://redefincapital.com/) **RedeFin Capital, Hyderabad** | *May 2023 - September 2023 | Remote*  
-Designed wireframes and prototypes using **Figma** and **Adobe XD**, and collaborated with the product team to define user flows.
-
-[**UI/UX Designer**](https://www.nirji.com/) **Nirji Ventures, Singapore** | *February 2023 - June 2023 | Remote*  
-Collaborated on gathering requirements, developed wireframes, prototypes, and high-fidelity designs using **Adobe XD** and **Figma**.
-
-[**Product Designer**](https://www.behance.net/gallery/146933343/Youngify-My-Startup-Client) **Youngify, Bengaluru, India** | *September 2021 - November 2021 | On-site*  
-Created **UI/UX Designs**, wireframes, and prototypes for product conceptualization and collaborated on user flows and design documentation.
-
-
----
-
-<!--My Skills and Current Learning Badges  -->
-
-## 🛠️ Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px>
-**Programming Languages:** Python, Java, C++, SQL, JavaScript  
-**Frontend Development:** ReactJS, NextJS, HTML, CSS, Figma, Adobe XD  
-**Backend Development:** Node.js, Express.js, Flask, Django  
-**Machine Learning Frameworks:** PyTorch, TensorFlow, Keras  
-**Cloud/IoT Technologies:** Google Cloud, AWS, Raspberry Pi  
-**Databases:** MongoDB, MySQL  
-**UI/UX Design Tools:** Figma, Adobe XD  
-**Specialized Skills:** Machine Learning, Deep Learning, Internet of Things
-
-<br>
-
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-FF7262?logo=figma&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-0277BD?logo=agile&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?logo=google-cloud&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-blue?logo=microservices&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-green?logo=api&logoColor=white) ![Load Balancing](https://img.shields.io/badge/-Load%20Balancing-orange?logo=load-balancer&logoColor=white) ![Scalability](https://img.shields.io/badge/-Scalability-red?logo=architecture&logoColor=white) ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-purple?logo=distributed&logoColor=white) ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-0078D7?logo=neural-network&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-
----
-
-## 📜 Certifications
-- **Machine Learning Pipelines with Azure ML Studio** - Coursera  
-- **Google Cloud Digital Leader Training** - Coursera  
-- **Professional Cloud Security Engineer** - Coursera  
-- **AWS Academy Cloud Foundations** - Coursera  
-- **Create a No-code Responsive Website with Webflow** - Coursera  
-  
----
-
-## 🎖️ Achievements
-- **Patent**: Got my project patent **A System and Method for Automated Waste Segregation** (Application no: 202441064693)
-- **Smart India Hackathon 2023**: Led a team to secure **15th place** out of **100+ teams**, earning a spot as a grand finalist.
-- **Smart India Hackathon 2022**: Secured **second position** for developing a smart bin and a mobile application called "Money Plant" for smart waste segregation and recycling.
-- **IoT Hackathon**: Won the **first prize** for developing an automated and smart solution for waste management.
-- **Hackhub 2022**: Received the **Rookie Team Award** for developing a **Smart Attendance System** for colleges, supporting both online and offline modes.
-- **Smart India Hackathon 2019**: Awarded the **first prize** for developing innovative solutions for pollution and garbage management. 
-
----
-
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" style="flex: 1; margin-right: 10px;"/>
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true" style="flex: 1;"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-
-<!-- [![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=github)](https://github.com/manumishra12/github-readme-activity-graph) -->
-
-<!-- SNAKE GRID -->
-<!--
-<p align="center">
-  <img src="https://github.com/manumishra12/manumishra12/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
--->
-
-<!-- Github  Cat Climbing -->
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
-
-<p>
-  <!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />  -->
-  <!-- <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&theme=radical"> -->
-  
-  <!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manumishra12&count_private=true&theme=radical&show_icons=true" /> -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&theme=radical&show_icons=true)](https://github.com/manumishra12/github-readme-stats) -->
-
-</p>
-
-
-<!--
-<h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
-<div>
-
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)  [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
- 
-[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   
-  
-<!--  Badges -->
-<!--
-<p align="center"> 
- 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
- 
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
- 
-</p> 
-<br>
 </div>
-<h3 style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
 
-<p>
-<img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
-<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-<br>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+---
 
+### `$ cat about.txt`
+
+```
+I'm a Software Engineer who started in design and worked my way through
+the full stack into AI/ML and systems architecture.
+
+My path has been anything but linear — I began as a Product Designer at
+a Bengaluru startup in 2021, moved through UI/UX roles in Singapore,
+built full-stack applications across multiple early-stage companies, and
+gradually shifted toward the intersection of AI and backend engineering.
+That journey taught me something most pure engineers miss: how to think
+about systems from the user's perspective before writing a single line
+of code.
+
+Today I build enterprise-grade backend microservices and AI orchestration
+layers at ZenMinds Technologies — integrating OCR pipelines, LLM agents,
+and predictive dashboards into ERP workflows that handle real business
+complexity. Before this, I shipped GenAI prompt pipelines serving 1K+
+daily users at Mondee and built RAG-based medical assistants at DigiQuanta
+that cut diagnostic query latency by 45%.
+
+On the research side, I've published at IEEE (cuffless blood pressure
+estimation using SWIN Transformers, IIT BHU), hold an Indian patent for
+AI-powered waste segregation, and I'm currently contributing to a
+Federated Continual Learning survey at IIT Hyderabad spanning 186+ papers
+across 8 continual learning paradigms.
+
+────────────────────────────────────────────────────────────────
+ BY THE NUMBERS
+────────────────────────────────────────────────────────────────
+ 11 professional roles  ·  3 research contributions  ·  1 patent
+ 5x hackathon winner    ·  B.Tech CSE, VIT Chennai (8.20 CGPA)
+────────────────────────────────────────────────────────────────
+
+Philosophy: Build systems that are boring to operate and delightful to
+use. Ship fast, measure everything, refactor without guilt. The best
+architecture is the one your team can reason about at 2 AM.
+```
+
+---
+
+### `$ cat /etc/education.conf`
+
+```
+  Vellore Institute of Technology, Chennai
+  Bachelor of Technology -- Computer Science & Engineering
+  CGPA: 8.20 | Sep 2021 -- Sep 2025
+
+  Activities:
+  +-- Sponsorship & Management Lead -- REVA Special Team
+  +-- Programming & Electrical Member -- HumanoidX
+  +-- Content & Technical Member -- VITrendZ
+  +-- Member -- Webster's
+```
+
+---
+
+### `$ uptime --current`
+
+```
+ CURRENTLY BUILDING
+ ├── Enterprise ERP microservices with AI orchestration @ ZenMinds
+ ├── Agentic workflows using LangGraph & LangChain for real-world automation
+ └── Open-source AI developer tools (solo builds, Claude API, zero-infra)
+
+ CURRENTLY RESEARCHING
+ ├── Federated Continual Learning @ IIT Hyderabad (survey paper in progress)
+ └── Privacy-preserving, scalable AI systems for continual model improvement
+
+ CURRENTLY EXPLORING
+ ├── System Design patterns for distributed AI pipelines
+ ├── LoRA/QLoRA fine-tuning workflows for domain-specific VLMs
+ └── DevOps for ML — MLOps, model serving, observability at scale
+```
+
+---
+
+### `$ cat /var/log/career.log --reverse`
+
+```
+────────────────────────────────────────────────────────────────────
+ CURRENT
+────────────────────────────────────────────────────────────────────
+
+ ⬢  Software Engineer              ZenMinds Technologies, Hyderabad
+    Jan 2026 – Present
+    ├── Designing scalable backend microservices & RESTful APIs for
+    │   enterprise ERP modules spanning inventory, manufacturing & finance
+    ├── 30% API response latency improvement through Redis caching,
+    │   query optimization & horizontal scaling patterns
+    ├── Integrating OCR document pipelines & AI orchestration layers
+    │   into ERP workflows for automated invoice processing
+    ├── Building intelligent dashboard generation & predictive reporting
+    │   systems powered by LLM-based agents
+    ├── Implementing async task queues with structured logging &
+    │   centralized error tracing for full observability
+    └── Tech: Python, Spring Boot, Redis, PostgreSQL, Docker, AWS
+
+ ⬢  Research Intern                 IIT Hyderabad
+    Jan 2025 – Present
+    ├── Working on Federated Learning & Class-Incremental Learning,
+    │   focusing on privacy-preserving, scalable AI systems for
+    │   continual model improvement
+    ├── Surveying 186+ FCL papers across 8 continual learning paradigms
+    ├── Proposing a novel six-dimensional experimental setup taxonomy
+    │   & dual-axis Paradigm-Setup matrix
+    └── Addressing spatial-temporal catastrophic forgetting under
+        non-IID data heterogeneity in federated settings
+
+────────────────────────────────────────────────────────────────────
+ 2025
+────────────────────────────────────────────────────────────────────
+
+ ◆  AI Engineer Intern              Mondee, Hyderabad
+    Apr 2025 – Oct 2025
+    ├── Designed & optimized GenAI prompt pipelines for Aarna (Mondee's
+    │   AI travel platform) enabling personalized itinerary generation
+    ├── Served 1K+ daily users deployed on AWS (EC2, S3) with auto-scaling
+    │   infrastructure and load-balanced API endpoints
+    ├── Implemented agentic RAG workflow using LangGraph, LangChain &
+    │   custom ML models — improved query relevance by 25%
+    ├── Instrumented distributed tracing via Langfuse & OpenTelemetry
+    │   for end-to-end pipeline observability
+    └── Tech: Python, LangChain, LangGraph, AWS, Langfuse, OpenTelemetry
+
+ ◆  Software Developer Intern       DigiQuanta, Hyderabad
+    Jan 2025 – Mar 2025
+    ├── Developed a RAG-based medical assistant using embedding models
+    │   & vector-indexed retrieval over 5K+ healthcare records
+    ├── Reduced diagnostic query latency by 45% through optimized
+    │   chunking strategies & re-ranking algorithms
+    ├── Built a voice-enabled AI diagnostic tool supporting multilingual
+    │   queries using speech recognition & GenAI APIs
+    ├── Achieved sub-3s response time via cloud-hosted REST endpoints
+    │   with centralized logging & error tracing
+    └── Tech: Python, Flask, Embeddings, Vector DBs, Speech APIs
+
+────────────────────────────────────────────────────────────────────
+ 2024
+────────────────────────────────────────────────────────────────────
+
+ ◇  Junior Researcher               IIT BHU, Varanasi
+    Jun 2024 – Jul 2024
+    ├── Developed a cuffless blood pressure estimation system using
+    │   ECG & PPG physiological signals
+    ├── Applied signal-to-image conversion with bispectrum & bicoherence
+    │   spectral features for non-invasive BP prediction
+    ├── Implemented SWIN Transformer backbone achieving high accuracy
+    │   in both systolic & diastolic BP predictions
+    ├── Validated results against AAMI/BHS international standards
+    ├── Published findings at IEEE conference proceedings
+    └── Tech: Python, PyTorch, SWIN Transformers, Signal Processing
+
+ ◇  SDE Intern                      Growth Ventures, Bengaluru (Remote)
+    Feb 2024 – May 2024
+    ├── Implemented new product features & improved existing software
+    │   functionality across the company's digital services platform
+    ├── Designed customized strategies & technical solutions to help
+    │   businesses achieve optimal growth outcomes
+    ├── Conducted rigorous testing & QA cycles — increased user
+    │   satisfaction metrics by 25%
+    └── Tech: JavaScript, React.js, Node.js, REST APIs
+
+ ◇  Machine Learning Intern         Growth Ventures, India (Remote)
+    Dec 2023 – Feb 2024
+    ├── Assisted in developing, optimizing & evaluating machine learning
+    │   models for business intelligence applications
+    ├── Collaborated with the team to design & implement new ML
+    │   algorithms, architectures & training techniques
+    ├── Performed data preprocessing, feature engineering, model
+    │   selection & hyperparameter tuning
+    └── Tech: Python, Scikit-Learn, TensorFlow, Pandas
+
+────────────────────────────────────────────────────────────────────
+ 2023
+────────────────────────────────────────────────────────────────────
+
+ ○  Full Stack Developer            Startuply, India (Remote)
+    Aug 2023 – Present
+    ├── Developed interactive web applications with end-to-end ownership
+    │   across frontend & backend
+    ├── Integrated third-party APIs & built RESTful services for
+    │   client-facing features
+    ├── Managed deployment pipelines & database operations for
+    │   production environments
+    └── Tech: ReactJS, Node.js, Express.js, MongoDB
+
+ ○  Application Developer Intern    RedeFin Capital, Hyderabad (Remote)
+    May 2023 – Sep 2023
+    ├── Designed wireframes & interactive prototypes using Figma &
+    │   Adobe XD for the company's fintech products
+    ├── Collaborated with the product team to define & optimize user
+    │   flows, navigation patterns & interaction models
+    └── Tech: Figma, Adobe XD, UI/UX Design
+
+ ○  UI/UX Designer                  Nirji Ventures, Singapore (Remote)
+    Feb 2023 – Jun 2023
+    ├── Collaborated on gathering requirements from stakeholders &
+    │   translating business needs into design specifications
+    ├── Developed wireframes, interactive prototypes & high-fidelity
+    │   designs across web & mobile platforms
+    ├── Iterated on designs based on user feedback & usability testing
+    └── Tech: Adobe XD, Figma, Prototyping
+
+────────────────────────────────────────────────────────────────────
+ 2021
+────────────────────────────────────────────────────────────────────
+
+ ○  Product Designer                Youngify, Bengaluru
+    Sep 2021 – Nov 2021
+    ├── Created UI/UX designs, wireframes & prototypes for early-stage
+    │   product conceptualization at Youngify startup
+    ├── Collaborated on user flows, design documentation & visual
+    │   identity for the product launch
+    └── Tech: Figma, Adobe XD, Design Systems
+```
+
+---
+
+### `$ ls -la projects/`
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**`orkestron/`**](https://github.com/manumishra12) `live` | AI workspace — 55 specialized agents across 8-step pipeline (Context Analyst → DevOps) with QA feedback loops, streaming responses & OWASP guardrails. VS Code-like Monaco editor, WebContainer sandbox, Y.js CRDT + WebRTC collab, one-click Vercel deploy. | `react` `monaco` `y.js` `webrtc` `pixijs` `webcontainers` |
+| [**`smartgrader/`**](https://github.com/manumishra12) `research` | Fine-tuned Qwen-VL via LoRA on custom handwritten diagram & pseudocode datasets — 85%+ grading accuracy. Gemma3 for rubric-aligned scoring with structured evaluation metrics. | `qwen-vl` `gemma3` `lora` `fine-tuning` `vlm` |
+| [**`nexus-search/`**](https://github.com/manumishra12) `agents` | 13 autonomous agents via LangGraph for query decomposition, cross-source retrieval (Tavily), and automated report generation including technical summaries, comparative analyses & structured citation output. | `langgraph` `langchain` `tavily` `multi-agent` |
+| [**`alt-dev/`**](https://alt-dev.vercel.app/) `agency` | Freelance development studio — end-to-end product builds from AI integrations, SaaS platforms, landing pages to MVPs for startups. | `next.js` `vercel` `full-stack` `saas` |
+
+<p align="center">
+<a href="https://github.com/manumishra12?tab=repositories">
+<img src="https://img.shields.io/badge/%E2%96%B8_view_all_repositories-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+</a>
 </p>
--->
 
+---
 
+### `$ cat publications.bib`
 
-<!-- EXTRA BADGES -->
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+```bibtex
+@inproceedings{mishra2024swin,
+    title     = {Cuffless Blood Pressure Estimation using SWIN Transformers},
+    author    = {Mishra, Manu},
+    booktitle = {IEEE Conference Proceedings},
+    year      = {2024},
+    lab       = {IIT BHU, Varanasi},
+    status    = {PUBLISHED},
+    abstract  = {Non-invasive BP estimation via signal-to-image conversion using
+                 bispectrum and bicoherence spectral features with SWIN Transformer
+                 backbone. Validated against AAMI/BHS international standards.}
+}
 
-  <!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  -->
+@article{mishra2025fcl,
+    title   = {Federated Continual Learning: A Comprehensive Survey},
+    author  = {Mishra, Manu},
+    journal = {Under Review},
+    year    = {2025},
+    lab     = {IIT Hyderabad},
+    status  = {ONGOING},
+    note    = {186 FCL papers across 8 CL paradigms. Proposes novel six-dimensional
+               experimental setup taxonomy and dual-axis Paradigm-Setup matrix.}
+}
 
-  <!-- <img src="https://img.shields.io/badge/AdobeXD-b0331a?style=for-the-badge&logo=AdobeXD&logoColor=white"> -->
-<!-- ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) -->
- 
- <!-- <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p> 
+@patent{mishra2024waste,
+    title   = {A System and Method for Automated Waste Segregation},
+    number  = {Indian Patent: 202441064693},
+    author  = {Mishra, Manu},
+    year    = {2024},
+    status  = {GRANTED},
+    note    = {AI-powered construction waste segregation using CV-based classification
+               and conveyor sorting — 2x recycling throughput over manual methods.}
+}
+```
 
-<!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
- <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
- 
- 
- 
- 
-<!--
- Mail ID Links  
- 📫 How to reach me **connectmanumishra@gmail.com**
- <br><br>
- <hr>
--->
+---
 
+### `$ printenv STACK`
 
+```
+LANGUAGES     = "Python, C++, Java, JavaScript, SQL"
+FRAMEWORKS    = "Spring Boot, Node.js, Express.js, React.js, Flask, REST APIs, Microservices, System Design"
+AI_ML         = "PyTorch, TensorFlow, Transformers, LLM Fine-tuning (LoRA/QLoRA), RAG, LangChain, LangGraph, Agentic AI"
+CLOUD_DEVOPS  = "AWS (EC2, S3, Lambda), Docker, Redis, Git, CI/CD, Linux"
+DATABASES     = "PostgreSQL, MongoDB, MySQL"
+OBSERVABILITY = "Langfuse, OpenTelemetry, Structured Logging"
+DESIGN        = "Figma, Adobe XD"
+COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Systems"
+```
 
-<!--
-<!-- Social Media Handel Links  
-<h4  style="color:yellow;margin-bottom: 20px;" >◻ Coding Profiles 💻</h4>  
-<div >
- 
-[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manu_Mishra)
-</p>
-<br>
+---
 
-<h4 style="color:yellow;margin-bottom: 20px;" >◻ Lets Connect <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;">  </h4>
-<div>
+### `$ cat achievements.log`
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/manumishra12)    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/manu-mishra-688487211/)       [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:connectmanumishra@gmail.com)           [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_mishramanu_/)     [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/)](https://twitter.com/ManuMis69128338)
+```
+[2023-12]  GRAND FINALIST  Smart India Hackathon 2023 — 15th / 100+ teams nationwide
+[2022-11]  2ND PLACE       Smart India Hackathon 2022 — AI smart bin "Money Plant"
+[2022-03]  ROOKIE AWARD    Hackhub 2022 — Smart Attendance System (online + offline)
+[2021-xx]  1ST PRIZE       IoT Hackathon — Automated waste management solution
+[2019-xx]  1ST PRIZE       Smart India Hackathon 2019 — Pollution & garbage management
+```
 
-<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics) 
+---
 
+### `$ cat certifications.txt`
 
+```
+├── Machine Learning Pipelines with Azure ML Studio        Coursera
+├── Google Cloud Digital Leader Training                    Coursera
+├── Professional Cloud Security Engineer                    Coursera
+├── AWS Academy Cloud Foundations                           Coursera
+└── Create a No-code Responsive Website with Webflow        Coursera
+```
 
+---
 
-<!-- CODE EAT SLEEP REPEAT Gify -->
-<!--  <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
-<hr>
+### `$ neofetch --github`
 
+<div align="center">
 
+<img width="680" src="https://ghchart.rshah.org/484f58/manumishra12" alt="contribution heatmap" />
 
-<!-- Contribution Tracking Chart -->
-<!--[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manumishra12&theme=react-dark)](https://github.com/manumishra12/github-readme-activity-graph)-->
+<br/><br/>
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=manumishra12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=484f58&text_color=848d97&ring_color=484f58&count_private=true&hide_title=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=848d97&langs_count=8&hide_title=true" />
 
+<br/>
 
+<img width="560" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&hide_border=true&background=0d1117&stroke=21262d&ring=484f58&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=848d97&sideLabels=848d97&dates=484f58" />
 
+<br/>
 
+<img width="560" src="https://github-readme-activity-graph.vercel.app/graph?username=manumishra12&bg_color=0d1117&color=848d97&line=484f58&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=" />
 
+<br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake-dark.svg" width="560" />
+</picture>
 
+</div>
 
+---
 
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=manumishra12&color=484f58&style=flat-square&label=visitors" />
 
+```
+$ echo "building things that matter." && exit
+```
 
-<!-- OTHER STUFF COMMENTED -->
-<!-- #Connect social media -->
-<!-- <h3 align="center">Connect with me:</h3>
-<p align="center"> -->
+</div>
 
-<!-- <a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-
-<!-- <a href="https://www.instagram.com/_mishramanu_/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_mishramanu_" height="50" width="50" /></a>
-</p>
-<hr> -->
-
-<!-- #Snake contribution -->
-<!-- <p align="center">
-  <img src="https://github.com/manumishra12/manumishra12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-
-
-<!-- Skills Panel -->
-
-<!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/python.svg'> </a>
-
-<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-
-<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-
-
-
-<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/c.svg'> </a>
-
-<a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/manumishra12/githubAboutMeGenerator/main/icons/cpp.svg'> </a> -->
-
-<!-- <a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> -->
-
-<!-- <a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a> -->
-
-<!-- <a href= https://github.com/manumishra12?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
-
-
-
-
-
-
-
-<!--/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  -->
-<!--
-**manumishra12/manumishra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=60&section=footer" width="100%" />
