@@ -22,8 +22,8 @@
 <a href="mailto:connectmanumishra@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=6e7681" /></a>&nbsp;
 <a href="https://github.com/manumishra12"><img src="https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=6e7681" /></a>&nbsp;
 <a href="https://twitter.com/ManuMis69128338"><img src="https://img.shields.io/badge/-X-161b22?style=flat-square&logo=x&logoColor=6e7681" /></a>&nbsp;
-<!-- <a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
-<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a> -->
+<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
+<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a>
 
 </div>
 
@@ -351,7 +351,7 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
 
 <div align="center">
 
-<img width="680" src="https://ghchart.rshah.org/484f58/manumishra12" alt="contribution heatmap" />
+<img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manumishra12&theme=github_dark" alt="contribution heatmap" />
 
 <br/><br/>
 
@@ -365,9 +365,9 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
 
 <br/>
 
-<img width="560" src="https://github-readme-activity-graph.vercel.app/graph?username=manumishra12&bg_color=0d1117&color=848d97&line=484f58&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=" />
+<!-- <img width="560" src="https://github-readme-activity-graph.vercel.app/graph?username=manumishra12&bg_color=0d1117&color=848d97&line=484f58&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=" />
 
-<br/>
+<br/> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake-dark.svg" />
