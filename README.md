@@ -22,8 +22,8 @@
 <a href="mailto:connectmanumishra@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=6e7681" /></a>&nbsp;
 <a href="https://github.com/manumishra12"><img src="https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=6e7681" /></a>&nbsp;
 <a href="https://twitter.com/ManuMis69128338"><img src="https://img.shields.io/badge/-X-161b22?style=flat-square&logo=x&logoColor=6e7681" /></a>&nbsp;
-<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
-<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a>
+<!-- <a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
+<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a> -->
 
 </div>
 
@@ -275,6 +275,7 @@ architecture is the one your team can reason about at 2 AM.
     year      = {2024},
     lab       = {IIT BHU, Varanasi},
     status    = {PUBLISHED},
+    url       = {https://ieeexplore.ieee.org/document/10958421},
     abstract  = {Non-invasive BP estimation via signal-to-image conversion using
                  bispectrum and bicoherence spectral features with SWIN Transformer
                  backbone. Validated against AAMI/BHS international standards.}
@@ -297,10 +298,13 @@ architecture is the one your team can reason about at 2 AM.
     author  = {Mishra, Manu},
     year    = {2024},
     status  = {GRANTED},
+    url     = {https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails},
     note    = {AI-powered construction waste segregation using CV-based classification
                and conveyor sorting — 2x recycling throughput over manual methods.}
 }
 ```
+
+> 📄 [**IEEE Paper — Cuffless BP Estimation**](https://ieeexplore.ieee.org/document/10958421) &nbsp; · &nbsp; 🏛️ [**Indian Patent — 202441064693**](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)
 
 ---
 
