@@ -22,8 +22,8 @@
 <a href="mailto:connectmanumishra@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=6e7681" /></a>&nbsp;
 <a href="https://github.com/manumishra12"><img src="https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=6e7681" /></a>&nbsp;
 <a href="https://twitter.com/ManuMis69128338"><img src="https://img.shields.io/badge/-X-161b22?style=flat-square&logo=x&logoColor=6e7681" /></a>&nbsp;
-<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
-<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a>
+<!-- <a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
+<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a> -->
 
 </div>
 
