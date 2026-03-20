@@ -22,12 +22,12 @@
 <a href="mailto:connectmanumishra@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=6e7681" /></a>&nbsp;
 <a href="https://github.com/manumishra12"><img src="https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=6e7681" /></a>&nbsp;
 <a href="https://twitter.com/ManuMis69128338"><img src="https://img.shields.io/badge/-X-161b22?style=flat-square&logo=x&logoColor=6e7681" /></a>&nbsp;
-<!-- <a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
-<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a> -->
+<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
+<a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a>
 
 </div>
 
----
+<br/>
 
 ### `$ cat about.txt`
 
@@ -56,35 +56,35 @@ AI-powered waste segregation, and I'm currently contributing to a
 Federated Continual Learning survey at IIT Hyderabad spanning 186+ papers
 across 8 continual learning paradigms.
 
-────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════
  BY THE NUMBERS
-────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════
  11 professional roles  ·  3 research contributions  ·  1 patent
  5x hackathon winner    ·  B.Tech CSE, VIT Chennai (8.20 CGPA)
-────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════
 
 Philosophy: Build systems that are boring to operate and delightful to
 use. Ship fast, measure everything, refactor without guilt. The best
 architecture is the one your team can reason about at 2 AM.
 ```
 
----
+<br/>
 
 ### `$ cat /etc/education.conf`
 
 ```
   Vellore Institute of Technology, Chennai
-  Bachelor of Technology -- Computer Science & Engineering
-  CGPA: 8.20 | Sep 2021 -- Sep 2025
+  Bachelor of Technology — Computer Science & Engineering
+  CGPA: 8.20 | Sep 2021 – Sep 2025
 
   Activities:
-  +-- Sponsorship & Management Lead -- REVA Special Team
-  +-- Programming & Electrical Member -- HumanoidX
-  +-- Content & Technical Member -- VITrendZ
-  +-- Member -- Webster's
+  ├── Sponsorship & Management Lead — REVA Special Team
+  ├── Programming & Electrical Member — HumanoidX
+  ├── Content & Technical Member — VITrendZ
+  └── Member — Webster's
 ```
 
----
+<br/>
 
 ### `$ uptime --current`
 
@@ -104,14 +104,14 @@ architecture is the one your team can reason about at 2 AM.
  └── DevOps for ML — MLOps, model serving, observability at scale
 ```
 
----
+<br/>
 
 ### `$ cat /var/log/career.log --reverse`
 
 ```
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
  CURRENT
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
 
  ⬢  Software Engineer              ZenMinds Technologies, Hyderabad
     Jan 2026 – Present
@@ -138,9 +138,9 @@ architecture is the one your team can reason about at 2 AM.
     └── Addressing spatial-temporal catastrophic forgetting under
         non-IID data heterogeneity in federated settings
 
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
  2025
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
 
  ◆  AI Engineer Intern              Mondee, Hyderabad
     Apr 2025 – Oct 2025
@@ -166,9 +166,9 @@ architecture is the one your team can reason about at 2 AM.
     │   with centralized logging & error tracing
     └── Tech: Python, Flask, Embeddings, Vector DBs, Speech APIs
 
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
  2024
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
 
  ◇  Junior Researcher               IIT BHU, Varanasi
     Jun 2024 – Jul 2024
@@ -202,9 +202,9 @@ architecture is the one your team can reason about at 2 AM.
     │   selection & hyperparameter tuning
     └── Tech: Python, Scikit-Learn, TensorFlow, Pandas
 
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
  2023
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
 
  ○  Full Stack Developer            Startuply, India (Remote)
     Aug 2023 – Present
@@ -233,9 +233,9 @@ architecture is the one your team can reason about at 2 AM.
     ├── Iterated on designs based on user feedback & usability testing
     └── Tech: Adobe XD, Figma, Prototyping
 
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
  2021
-────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
 
  ○  Product Designer                Youngify, Bengaluru
     Sep 2021 – Nov 2021
@@ -246,24 +246,68 @@ architecture is the one your team can reason about at 2 AM.
     └── Tech: Figma, Adobe XD, Design Systems
 ```
 
----
+<br/>
 
 ### `$ ls -la projects/`
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| [**`orkestron/`**](https://github.com/manumishra12) `live` | AI workspace — 55 specialized agents across 8-step pipeline (Context Analyst → DevOps) with QA feedback loops, streaming responses & OWASP guardrails. VS Code-like Monaco editor, WebContainer sandbox, Y.js CRDT + WebRTC collab, one-click Vercel deploy. | `react` `monaco` `y.js` `webrtc` `pixijs` `webcontainers` |
-| [**`smartgrader/`**](https://github.com/manumishra12) `research` | Fine-tuned Qwen-VL via LoRA on custom handwritten diagram & pseudocode datasets — 85%+ grading accuracy. Gemma3 for rubric-aligned scoring with structured evaluation metrics. | `qwen-vl` `gemma3` `lora` `fine-tuning` `vlm` |
-| [**`nexus-search/`**](https://github.com/manumishra12) `agents` | 13 autonomous agents via LangGraph for query decomposition, cross-source retrieval (Tavily), and automated report generation including technical summaries, comparative analyses & structured citation output. | `langgraph` `langchain` `tavily` `multi-agent` |
-| [**`alt-dev/`**](https://alt-dev.vercel.app/) `agency` | Freelance development studio — end-to-end product builds from AI integrations, SaaS platforms, landing pages to MVPs for startups. | `next.js` `vercel` `full-stack` `saas` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [`orkestron/`](https://github.com/manumishra12) &nbsp; <sup>`live`</sup>
+
+**AI-Powered Team Workspace**
+
+55 specialized agents across an 8-step automated pipeline (Context Analyst → DevOps) with QA feedback loops, streaming responses, and OWASP safety guardrails. VS Code-like Monaco editor with file tree, WebContainer sandbox (live npm/node), Y.js CRDT + WebRTC real-time collab, one-click Vercel/GitHub deploy.
+
+`react` `monaco-editor` `y.js` `webrtc` `pixijs` `webcontainers`
+
+</td>
+<td width="50%" valign="top">
+
+#### [`smartgrader/`](https://github.com/manumishra12) &nbsp; <sup>`research`</sup>
+
+**VLM-Powered Answer Grading**
+
+Fine-tuned Qwen-VL via LoRA on custom handwritten diagram & pseudocode datasets — 85%+ grading accuracy. Gemma3 for rubric-aligned scoring with structured evaluation metrics.
+
+`qwen-vl` `gemma3` `lora` `fine-tuning` `vlm`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [`nexus-search/`](https://github.com/manumishra12) &nbsp; <sup>`agents`</sup>
+
+**Multi-Agent Research Engine**
+
+13 autonomous agents via LangGraph for query decomposition, cross-source retrieval (Tavily), and automated report generation including technical summaries, comparative analyses & structured citation output.
+
+`langgraph` `langchain` `tavily` `multi-agent`
+
+</td>
+<td width="50%" valign="top">
+
+#### [`alt-dev/`](https://alt-dev.vercel.app/) &nbsp; <sup>`agency`</sup>
+
+**Freelance Development Studio**
+
+End-to-end product development — AI integrations, SaaS platforms, landing pages, MVPs for startups. Full-stack builds from concept to deployment.
+
+`next.js` `vercel` `full-stack` `saas`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <a href="https://github.com/manumishra12?tab=repositories">
-<img src="https://img.shields.io/badge/%E2%96%B8_view_all_repositories-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<img src="https://img.shields.io/badge/%E2%96%B8_view_all_repositories-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
 </a>
 </p>
 
----
+<br/>
 
 ### `$ cat publications.bib`
 
@@ -306,7 +350,7 @@ architecture is the one your team can reason about at 2 AM.
 
 > 📄 [**IEEE Paper — Cuffless BP Estimation**](https://ieeexplore.ieee.org/document/10958421) &nbsp; · &nbsp; 🏛️ [**Indian Patent — 202441064693**](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)
 
----
+<br/>
 
 ### `$ printenv STACK`
 
@@ -321,7 +365,7 @@ DESIGN        = "Figma, Adobe XD"
 COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Systems"
 ```
 
----
+<br/>
 
 ### `$ cat achievements.log`
 
@@ -333,7 +377,7 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
 [2019-xx]  1ST PRIZE       Smart India Hackathon 2019 — Pollution & garbage management
 ```
 
----
+<br/>
 
 ### `$ cat certifications.txt`
 
@@ -345,9 +389,9 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
 └── Create a No-code Responsive Website with Webflow        Coursera
 ```
 
----
+<br/>
 
-### `$ neofetch --github`
+### `$ neofetch`
 
 <div align="center">
 
@@ -365,10 +409,6 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
 
 <br/>
 
-<!-- <img width="560" src="https://github-readme-activity-graph.vercel.app/graph?username=manumishra12&bg_color=0d1117&color=848d97&line=484f58&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=" />
-
-<br/> -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake.svg" />
@@ -377,14 +417,14 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=manumishra12&color=484f58&style=flat-square&label=visitors" />
 
 ```
-$ echo "building things that matter." && exit
+$ echo "building things that matter."
 ```
 
 </div>
