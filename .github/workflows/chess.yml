@@ -1,0 +1,65 @@
+name: Community Chess
+
+# Fires when anyone opens an issue. We only act on issues whose title starts
+# with "chess|" (created by clicking a move link in the README).
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write   # to commit the updated README + board
+  issues: write     # to comment on and close the move issue
+
+# If several people move at once, run them one at a time so the board stays sane.
+concurrency:
+  group: chess
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install python-chess
+        run: pip install chess
+
+      - name: Process move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.event.repository.default_branch }}
+        run: python chess/game.py
+
+      - name: Commit board state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md chess/board.svg chess/state.json
+          git commit -m "chess: ${{ github.event.issue.title }} (@${{ github.event.issue.user.login }})" || echo "no changes to commit"
+          git push
+
+      - name: Acknowledge and close the issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "Move recorded — thanks for playing! ♟ Refresh the profile in ~30s to see the updated board. This issue will now close automatically."
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed"
+            });
