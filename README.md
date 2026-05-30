@@ -278,9 +278,9 @@ SURVEY    Federated Continual Learning · 186 papers · under review
 HACKS     5x winner · SIH 2023 Grand Finalist · SIH 2022 Runner-up
 ```
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-read_the_paper-161b22?style=flat-square&logo=ieee&logoColor=8b949e&labelColor=161b22&color=161b22)](https://ieeexplore.ieee.org/document/10958421)
+<a href="https://ieeexplore.ieee.org/document/10958421"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/badges/ieee.svg" height="30" alt="IEEE — read the paper" /></a>
 &nbsp;
-[![Indian Patent](https://img.shields.io/badge/Patent-IN_202441064693-161b22?style=flat-square&logo=googlescholar&logoColor=8b949e&labelColor=161b22&color=161b22)](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)
+<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/badges/patent.svg" height="30" alt="Patent IN 202441064693" /></a>
 
 ### `$ printenv STACK`
 
@@ -298,7 +298,7 @@ HACKS     5x winner · SIH 2023 Grand Finalist · SIH 2022 Runner-up
 
 <br/>
 
-<details>
+<details open>
 <summary><code>$ cat achievements.log</code> &nbsp;<sub>5x hackathon winner</sub></summary>
 
 <br/>
@@ -313,7 +313,7 @@ HACKS     5x winner · SIH 2023 Grand Finalist · SIH 2022 Runner-up
 
 </details>
 
-<details>
+<details open>
 <summary><code>$ cat publications.bib</code></summary>
 
 <br/>
@@ -348,7 +348,7 @@ HACKS     5x winner · SIH 2023 Grand Finalist · SIH 2022 Runner-up
 
 </details>
 
-<details>
+<details open>
 <summary><code>$ cat certifications.txt</code> &nbsp;·&nbsp; <code>education.conf</code></summary>
 
 <br/>
