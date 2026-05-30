@@ -8,11 +8,10 @@
 
 <img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/header.svg" width="100%" alt="manu mishra — software engineer · ai/ml · systems design" />
 
-<br/>
 
-<a href="https://manumishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio--161b22?style=flat-square&logo=vercel&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
-<a href="https://alt-dev.vercel.app/"><img src="https://img.shields.io/badge/Studio-alt--dev.vercel.app-161b22?style=flat-square&logo=vercel&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
-<a href="https://drive.google.com/file/d/1i6gQboqXTqLXS9TT9L1ccPSZ3IWeJJlC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-download.pdf-161b22?style=flat-square&logo=googledrive&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
+<a href="https://manumishra.vercel.app/"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/badges/portfolio.svg" height="30" alt="Portfolio — manumishra.vercel.app" /></a>
+<a href="https://alt-dev.vercel.app/"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/badges/studio.svg" height="30" alt="Studio — alt-dev.vercel.app" /></a>
+<a href="https://drive.google.com/file/d/1i6gQboqXTqLXS9TT9L1ccPSZ3IWeJJlC/view?usp=sharing"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/badges/resume.svg" height="30" alt="Resume — download.pdf" /></a>
 
 <br/>
 
@@ -23,7 +22,10 @@
 <a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/hackerrank.svg" height="21" alt="HackerRank" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://hashnode.com/@ManuMishra12"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/hashnode.svg" height="21" alt="Hashnode" /></a>
 
-<br/><br/>
+<br/>
+
+<hr>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=680&height=30&lines=build+systems+that+are+boring+to+operate;and+delightful+to+use;ship+fast+%C2%B7+measure+everything+%C2%B7+refactor+without+guilt" alt="tagline" />
 
@@ -372,12 +374,6 @@ CERTIFICATIONS
 ### `$ neofetch`
 
 <div align="center">
-
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=manumishra12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=484f58&text_color=848d97&ring_color=484f58&count_private=true&hide_title=true" />
-&nbsp;
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumishra12&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=848d97&langs_count=8&hide_title=true" />
-
-<br/>
 
 <img width="540" src="https://github-readme-streak-stats.herokuapp.com/?user=manumishra12&hide_border=true&background=0d1117&stroke=21262d&ring=484f58&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=848d97&sideLabels=848d97&dates=484f58" />
 
