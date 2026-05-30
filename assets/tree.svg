@@ -1,0 +1,41 @@
+<svg viewBox="0 0 840 250" width="840" height="250" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','SFMono-Regular',Menlo,Monaco,'Cascadia Code','Roboto Mono',Consolas,monospace" role="img" aria-label="tree --more: career.log, achievements.log, publications.bib, certifications">
+  <title>profile directory tree</title>
+  <defs>
+    <clipPath id="t"><rect x="8" y="8" width="824" height="234" rx="14"/></clipPath>
+    <linearGradient id="pan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2128"/><stop offset="0.5" stop-color="#161b22"/><stop offset="1" stop-color="#0f1318"/>
+    </linearGradient>
+    <radialGradient id="vg" cx="0.5" cy="0.4" r="0.75">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="0.72" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.3"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#t)">
+    <rect x="8" y="8" width="824" height="234" fill="url(#pan)"/>
+    <rect x="8" y="8" width="824" height="234" fill="url(#vg)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="823" height="233" rx="13.5" fill="none" stroke="#30363d"/>
+  <line x1="18" y1="10" x2="822" y2="10" stroke="#ffffff" stroke-opacity="0.05"/>
+
+  <!-- prompt -->
+  <text x="36" y="48" font-size="13.5"><tspan fill="#56707f">~/manu</tspan><tspan dx="10" fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">tree --more</tspan></text>
+
+  <text x="36" y="82" font-size="13.5" fill="#6e7681">.</text>
+
+  <g opacity="0">
+    <text x="36" y="112" font-size="13.5"><tspan fill="#586069">&#9500;&#9472;&#9472;</tspan><tspan dx="10" fill="#c9d1d9">career.log</tspan><tspan x="330" fill="#6e7681">11 roles &#183; since 2021</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.25s" begin="0.20s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="142" font-size="13.5"><tspan fill="#586069">&#9500;&#9472;&#9472;</tspan><tspan dx="10" fill="#c9d1d9">achievements.log</tspan><tspan x="330" fill="#6e7681">5&#215; hackathon winner</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.25s" begin="0.40s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="172" font-size="13.5"><tspan fill="#586069">&#9500;&#9472;&#9472;</tspan><tspan dx="10" fill="#c9d1d9">publications.bib</tspan><tspan x="330" fill="#6e7681">IEEE &#183; patent &#183; survey</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.25s" begin="0.60s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="202" font-size="13.5"><tspan fill="#586069">&#9492;&#9472;&#9472;</tspan><tspan dx="10" fill="#c9d1d9">certifications/</tspan><tspan x="330" fill="#6e7681">5 certs &#183; VIT Chennai</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.25s" begin="0.80s" fill="freeze"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg viewBox="0 0 840 282" width="840" height="282" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','SFMono-Regular',Menlo,Monaco,'Cascadia Code','Roboto Mono',Consolas,monospace" role="img" aria-label="printenv STACK: languages, backend, ai/ml, cloud, data, observability">
+  <title>tech stack</title>
+  <defs>
+    <clipPath id="s"><rect x="8" y="8" width="824" height="266" rx="14"/></clipPath>
+    <linearGradient id="pans" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2128"/><stop offset="0.5" stop-color="#161b22"/><stop offset="1" stop-color="#0f1318"/>
+    </linearGradient>
+    <radialGradient id="vgs" cx="0.5" cy="0.4" r="0.75">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="0.72" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.3"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#s)">
+    <rect x="8" y="8" width="824" height="266" fill="url(#pans)"/>
+    <rect x="8" y="8" width="824" height="266" fill="url(#vgs)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="823" height="265" rx="13.5" fill="none" stroke="#30363d"/>
+  <line x1="18" y1="10" x2="822" y2="10" stroke="#ffffff" stroke-opacity="0.05"/>
+
+  <text x="36" y="48" font-size="13.5"><tspan fill="#56707f">~/manu</tspan><tspan dx="10" fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">printenv STACK</tspan></text>
+  <line x1="28" y1="64" x2="812" y2="64" stroke="#21262d"/>
+
+  <g opacity="0">
+    <text x="36" y="96" font-size="13"><tspan fill="#58a6ff">LANGUAGES</tspan><tspan x="180" fill="#9aa5b1">Python &#183; C++ &#183; Java &#183; JavaScript &#183; SQL</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.15s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="126" font-size="13"><tspan fill="#58a6ff">BACKEND</tspan><tspan x="180" fill="#9aa5b1">Spring Boot &#183; Node &#183; Express &#183; Flask &#183; REST &#183; Microservices</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.30s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="156" font-size="13"><tspan fill="#58a6ff">AI &#183; ML</tspan><tspan x="180" fill="#9aa5b1">PyTorch &#183; Transformers &#183; LoRA/QLoRA &#183; RAG &#183; LangChain &#183; LangGraph</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.45s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="186" font-size="13"><tspan fill="#58a6ff">CLOUD</tspan><tspan x="180" fill="#9aa5b1">AWS (EC2 &#183; S3 &#183; Lambda) &#183; Docker &#183; Redis &#183; CI/CD &#183; Linux</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.60s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="216" font-size="13"><tspan fill="#58a6ff">DATA</tspan><tspan x="180" fill="#9aa5b1">PostgreSQL &#183; MongoDB &#183; MySQL</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.75s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text x="36" y="246" font-size="13"><tspan fill="#58a6ff">OBSERVE</tspan><tspan x="180" fill="#9aa5b1">Langfuse &#183; OpenTelemetry &#183; structured logging</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.90s" fill="freeze"/>
+  </g>
+</svg>
