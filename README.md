@@ -10,11 +10,11 @@
 
 <br/>
 
-<a href="https://manumishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-manumishra.vercel.app-161b22?style=flat-square&logo=vercel&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
+<a href="https://manumishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio--161b22?style=flat-square&logo=vercel&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
 <a href="https://alt-dev.vercel.app/"><img src="https://img.shields.io/badge/Studio-alt--dev.vercel.app-161b22?style=flat-square&logo=vercel&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
 <a href="https://drive.google.com/file/d/1i6gQboqXTqLXS9TT9L1ccPSZ3IWeJJlC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-download.pdf-161b22?style=flat-square&logo=googledrive&logoColor=8b949e&labelColor=161b22&color=161b22" /></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/manu-mishra-688487211/"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/linkedin.svg" height="21" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:connectmanumishra@gmail.com"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/gmail.svg" height="21" alt="Email" /></a> &nbsp;&nbsp;&nbsp;
