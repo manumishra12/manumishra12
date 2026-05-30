@@ -1,20 +1,20 @@
+<!--
+  manumishra12/README.md
+  Custom animated assets live in /assets (header.svg, journey.svg).
+  They animate on GitHub via SVG SMIL — no build step, no JS needed.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=120&section=header&text=%3E_%20Manu%20Mishra&fontSize=40&fontColor=c9d1d9&fontAlignY=50&desc=%5Bsoftware_engineer%5D%20%5Bai_ml%5D%20%5Bsystems_design%5D&descSize=14&descColor=484f58&descAlignY=75&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/header.svg" width="100%" alt="manu mishra — software engineer · ai/ml · systems design" />
 
-<br/>
+<br/><br/>
 
-<a href="https://manumishra.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%96%B8_portfolio-manumishra.vercel.app-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
-</a>
+<a href="https://manumishra.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B8_portfolio-manumishra.vercel.app-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" /></a>
 &nbsp;
-<a href="https://alt-dev.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%96%B8_agency-alt--dev.vercel.app-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
-</a>
+<a href="https://alt-dev.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B8_studio-alt--dev.vercel.app-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" /></a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1i6gQboqXTqLXS9TT9L1ccPSZ3IWeJJlC/view?usp=sharing">
-<img src="https://img.shields.io/badge/%E2%96%B8_resume-download.pdf-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
-</a>
+<a href="https://drive.google.com/file/d/1i6gQboqXTqLXS9TT9L1ccPSZ3IWeJJlC/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%96%B8_resume-download.pdf-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" /></a>
 
 <br/><br/>
 
@@ -25,275 +25,112 @@
 <a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://img.shields.io/badge/-HackerRank-161b22?style=flat-square&logo=hackerrank&logoColor=6e7681" /></a>&nbsp;
 <a href="https://hashnode.com/@ManuMishra12"><img src="https://img.shields.io/badge/-Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=6e7681" /></a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=680&height=34&lines=build+systems+that+are+boring+to+operate;and+delightful+to+use;ship+fast+%C2%B7+measure+everything+%C2%B7+refactor+without+guilt" alt="typing tagline" />
+
 </div>
 
 <br/>
 
-### `$ cat about.txt`
+### `$ whoami`
 
 ```
-I'm a Software Engineer who started in design and worked my way through
-the full stack into AI/ML and systems architecture.
+Software Engineer building enterprise backend microservices and AI
+orchestration layers — OCR pipelines, LLM agents, and predictive
+dashboards wired into ERP workflows that handle real business complexity.
 
-My path has been anything but linear — I began as a Product Designer at
-a Bengaluru startup in 2021, moved through UI/UX roles in Singapore,
-built full-stack applications across multiple early-stage companies, and
-gradually shifted toward the intersection of AI and backend engineering.
-That journey taught me something most pure engineers miss: how to think
-about systems from the user's perspective before writing a single line
-of code.
-
-Today I build enterprise-grade backend microservices and AI orchestration
-layers at ZenMinds Technologies — integrating OCR pipelines, LLM agents,
-and predictive dashboards into ERP workflows that handle real business
-complexity. Before this, I shipped GenAI prompt pipelines serving 1K+
-daily users at Mondee and built RAG-based medical assistants at DigiQuanta
-that cut diagnostic query latency by 45%.
-
-On the research side, I've published at IEEE (cuffless blood pressure
-estimation using SWIN Transformers, IIT BHU), hold an Indian patent for
-AI-powered waste segregation, and I'm currently contributing to a
-Federated Continual Learning survey at IIT Hyderabad spanning 186+ papers
-across 8 continual learning paradigms.
-
-════════════════════════════════════════════════════════════════
- BY THE NUMBERS
-════════════════════════════════════════════════════════════════
- 11 professional roles  ·  3 research contributions  ·  1 patent
- 5x hackathon winner    ·  B.Tech CSE, VIT Chennai (8.20 CGPA)
-════════════════════════════════════════════════════════════════
-
-Philosophy: Build systems that are boring to operate and delightful to
-use. Ship fast, measure everything, refactor without guilt. The best
-architecture is the one your team can reason about at 2 AM.
+Started in design, moved through full-stack, and grew into AI/ML and
+systems architecture. That path taught me to think about systems from
+the user's side before writing a line of code.
 ```
 
 <br/>
 
-### `$ cat /etc/education.conf`
+### `$ git log --graph --career`
 
-```
-  Vellore Institute of Technology, Chennai
-  Bachelor of Technology — Computer Science & Engineering
-  CGPA: 8.20 | Sep 2021 – Sep 2025
+<div align="center">
 
-  Activities:
-  ├── Sponsorship & Management Lead — REVA Special Team
-  ├── Programming & Electrical Member — HumanoidX
-  ├── Content & Technical Member — VITrendZ
-  └── Member — Webster's
-```
+<img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/journey.svg" width="100%" alt="design → ui/ux → full-stack → ai/ml → systems" />
+
+</div>
 
 <br/>
 
-### `$ uptime --current`
+### `$ status`
 
-```
- CURRENTLY BUILDING
- ├── Enterprise ERP microservices with AI orchestration @ ZenMinds
- ├── Agentic workflows using LangGraph & LangChain for real-world automation
- └── Open-source AI developer tools (solo builds, Claude API, zero-infra)
+<table>
+<tr>
+<td valign="top" width="33%">
 
- CURRENTLY RESEARCHING
- ├── Federated Continual Learning @ IIT Hyderabad (survey paper in progress)
- └── Privacy-preserving, scalable AI systems for continual model improvement
+**◢ building**
 
- CURRENTLY EXPLORING
- ├── System Design patterns for distributed AI pipelines
- ├── LoRA/QLoRA fine-tuning workflows for domain-specific VLMs
- └── DevOps for ML — MLOps, model serving, observability at scale
-```
+› ERP microservices + AI orchestration · ZenMinds  
+› LangGraph / LangChain agentic flows  
+› open-source AI dev tools · Claude API · zero-infra
 
-<br/>
+</td>
+<td valign="top" width="33%">
 
-### `$ cat /var/log/career.log --reverse`
+**◤ researching**
 
-```
-════════════════════════════════════════════════════════════════════
- CURRENT
-════════════════════════════════════════════════════════════════════
+› Federated Continual Learning · IIT-H  
+› 186-paper survey · novel setup taxonomy  
+› privacy-preserving continual AI
 
- ⬢  Software Engineer              ZenMinds Technologies, Hyderabad
-    Jan 2026 – Present
-    ├── Designing scalable backend microservices & RESTful APIs for
-    │   enterprise ERP modules spanning inventory, manufacturing & finance
-    ├── 30% API response latency improvement through Redis caching,
-    │   query optimization & horizontal scaling patterns
-    ├── Integrating OCR document pipelines & AI orchestration layers
-    │   into ERP workflows for automated invoice processing
-    ├── Building intelligent dashboard generation & predictive reporting
-    │   systems powered by LLM-based agents
-    ├── Implementing async task queues with structured logging &
-    │   centralized error tracing for full observability
-    └── Tech: Python, Spring Boot, Redis, PostgreSQL, Docker, AWS
+</td>
+<td valign="top" width="33%">
 
- ⬢  Research Intern                 IIT Hyderabad
-    Jan 2025 – Present
-    ├── Working on Federated Learning & Class-Incremental Learning,
-    │   focusing on privacy-preserving, scalable AI systems for
-    │   continual model improvement
-    ├── Surveying 186+ FCL papers across 8 continual learning paradigms
-    ├── Proposing a novel six-dimensional experimental setup taxonomy
-    │   & dual-axis Paradigm-Setup matrix
-    └── Addressing spatial-temporal catastrophic forgetting under
-        non-IID data heterogeneity in federated settings
+**◥ exploring**
 
-════════════════════════════════════════════════════════════════════
- 2025
-════════════════════════════════════════════════════════════════════
+› distributed AI pipeline design  
+› LoRA / QLoRA for domain VLMs  
+› MLOps · serving · observability at scale
 
- ◆  AI Engineer Intern              Mondee, Hyderabad
-    Apr 2025 – Oct 2025
-    ├── Designed & optimized GenAI prompt pipelines for Aarna (Mondee's
-    │   AI travel platform) enabling personalized itinerary generation
-    ├── Served 1K+ daily users deployed on AWS (EC2, S3) with auto-scaling
-    │   infrastructure and load-balanced API endpoints
-    ├── Implemented agentic RAG workflow using LangGraph, LangChain &
-    │   custom ML models — improved query relevance by 25%
-    ├── Instrumented distributed tracing via Langfuse & OpenTelemetry
-    │   for end-to-end pipeline observability
-    └── Tech: Python, LangChain, LangGraph, AWS, Langfuse, OpenTelemetry
-
- ◆  Software Developer Intern       DigiQuanta, Hyderabad
-    Jan 2025 – Mar 2025
-    ├── Developed a RAG-based medical assistant using embedding models
-    │   & vector-indexed retrieval over 5K+ healthcare records
-    ├── Reduced diagnostic query latency by 45% through optimized
-    │   chunking strategies & re-ranking algorithms
-    ├── Built a voice-enabled AI diagnostic tool supporting multilingual
-    │   queries using speech recognition & GenAI APIs
-    ├── Achieved sub-3s response time via cloud-hosted REST endpoints
-    │   with centralized logging & error tracing
-    └── Tech: Python, Flask, Embeddings, Vector DBs, Speech APIs
-
-════════════════════════════════════════════════════════════════════
- 2024
-════════════════════════════════════════════════════════════════════
-
- ◇  Junior Researcher               IIT BHU, Varanasi
-    Jun 2024 – Jul 2024
-    ├── Developed a cuffless blood pressure estimation system using
-    │   ECG & PPG physiological signals
-    ├── Applied signal-to-image conversion with bispectrum & bicoherence
-    │   spectral features for non-invasive BP prediction
-    ├── Implemented SWIN Transformer backbone achieving high accuracy
-    │   in both systolic & diastolic BP predictions
-    ├── Validated results against AAMI/BHS international standards
-    ├── Published findings at IEEE conference proceedings
-    └── Tech: Python, PyTorch, SWIN Transformers, Signal Processing
-
- ◇  SDE Intern                      Growth Ventures, Bengaluru (Remote)
-    Feb 2024 – May 2024
-    ├── Implemented new product features & improved existing software
-    │   functionality across the company's digital services platform
-    ├── Designed customized strategies & technical solutions to help
-    │   businesses achieve optimal growth outcomes
-    ├── Conducted rigorous testing & QA cycles — increased user
-    │   satisfaction metrics by 25%
-    └── Tech: JavaScript, React.js, Node.js, REST APIs
-
- ◇  Machine Learning Intern         Growth Ventures, India (Remote)
-    Dec 2023 – Feb 2024
-    ├── Assisted in developing, optimizing & evaluating machine learning
-    │   models for business intelligence applications
-    ├── Collaborated with the team to design & implement new ML
-    │   algorithms, architectures & training techniques
-    ├── Performed data preprocessing, feature engineering, model
-    │   selection & hyperparameter tuning
-    └── Tech: Python, Scikit-Learn, TensorFlow, Pandas
-
-════════════════════════════════════════════════════════════════════
- 2023
-════════════════════════════════════════════════════════════════════
-
- ○  Full Stack Developer            Startuply, India (Remote)
-    Aug 2023 – Present
-    ├── Developed interactive web applications with end-to-end ownership
-    │   across frontend & backend
-    ├── Integrated third-party APIs & built RESTful services for
-    │   client-facing features
-    ├── Managed deployment pipelines & database operations for
-    │   production environments
-    └── Tech: ReactJS, Node.js, Express.js, MongoDB
-
- ○  Application Developer Intern    RedeFin Capital, Hyderabad (Remote)
-    May 2023 – Sep 2023
-    ├── Designed wireframes & interactive prototypes using Figma &
-    │   Adobe XD for the company's fintech products
-    ├── Collaborated with the product team to define & optimize user
-    │   flows, navigation patterns & interaction models
-    └── Tech: Figma, Adobe XD, UI/UX Design
-
- ○  UI/UX Designer                  Nirji Ventures, Singapore (Remote)
-    Feb 2023 – Jun 2023
-    ├── Collaborated on gathering requirements from stakeholders &
-    │   translating business needs into design specifications
-    ├── Developed wireframes, interactive prototypes & high-fidelity
-    │   designs across web & mobile platforms
-    ├── Iterated on designs based on user feedback & usability testing
-    └── Tech: Adobe XD, Figma, Prototyping
-
-════════════════════════════════════════════════════════════════════
- 2021
-════════════════════════════════════════════════════════════════════
-
- ○  Product Designer                Youngify, Bengaluru
-    Sep 2021 – Nov 2021
-    ├── Created UI/UX designs, wireframes & prototypes for early-stage
-    │   product conceptualization at Youngify startup
-    ├── Collaborated on user flows, design documentation & visual
-    │   identity for the product launch
-    └── Tech: Figma, Adobe XD, Design Systems
-```
+</td>
+</tr>
+</table>
 
 <br/>
 
-### `$ ls -la projects/`
+### `$ ls work/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [`orkestron/`](https://github.com/manumishra12) &nbsp; <sup>`live`</sup>
+#### [`orkestron/`](https://github.com/manumishra12) &nbsp;<sup>`live`</sup>
 
-**AI-Powered Team Workspace**
+**AI-Powered Team Workspace** — 55 specialized agents across an 8-step pipeline with QA loops, a Monaco editor, WebContainer sandbox, and Y.js + WebRTC real-time collab.
 
-55 specialized agents across an 8-step automated pipeline (Context Analyst → DevOps) with QA feedback loops, streaming responses, and OWASP safety guardrails. VS Code-like Monaco editor with file tree, WebContainer sandbox (live npm/node), Y.js CRDT + WebRTC real-time collab, one-click Vercel/GitHub deploy.
-
-`react` `monaco-editor` `y.js` `webrtc` `pixijs` `webcontainers`
+`react` `monaco` `y.js` `webrtc` `webcontainers`
 
 </td>
 <td width="50%" valign="top">
 
-#### [`smartgrader/`](https://github.com/manumishra12) &nbsp; <sup>`research`</sup>
+#### [`smartgrader/`](https://github.com/manumishra12) &nbsp;<sup>`research`</sup>
 
-**VLM-Powered Answer Grading**
+**VLM Answer Grading** — Qwen-VL fine-tuned via LoRA on handwritten diagram + pseudocode data (85%+ accuracy), Gemma3 for rubric-aligned scoring.
 
-Fine-tuned Qwen-VL via LoRA on custom handwritten diagram & pseudocode datasets — 85%+ grading accuracy. Gemma3 for rubric-aligned scoring with structured evaluation metrics.
-
-`qwen-vl` `gemma3` `lora` `fine-tuning` `vlm`
+`qwen-vl` `gemma3` `lora` `vlm`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [`nexus-search/`](https://github.com/manumishra12) &nbsp; <sup>`agents`</sup>
+#### [`nexus-search/`](https://github.com/manumishra12) &nbsp;<sup>`agents`</sup>
 
-**Multi-Agent Research Engine**
-
-13 autonomous agents via LangGraph for query decomposition, cross-source retrieval (Tavily), and automated report generation including technical summaries, comparative analyses & structured citation output.
+**Multi-Agent Research Engine** — 13 LangGraph agents for query decomposition, cross-source retrieval, and automated report generation with citations.
 
 `langgraph` `langchain` `tavily` `multi-agent`
 
 </td>
 <td width="50%" valign="top">
 
-#### [`alt-dev/`](https://alt-dev.vercel.app/) &nbsp; <sup>`agency`</sup>
+#### [`alt-dev/`](https://alt-dev.vercel.app/) &nbsp;<sup>`studio`</sup>
 
-**Freelance Development Studio**
-
-End-to-end product development — AI integrations, SaaS platforms, landing pages, MVPs for startups. Full-stack builds from concept to deployment.
+**Freelance Dev Studio** — end-to-end product builds for startups: AI integrations, SaaS platforms, MVPs. Concept to deployment.
 
 `next.js` `vercel` `full-stack` `saas`
 
@@ -302,102 +139,187 @@ End-to-end product development — AI integrations, SaaS platforms, landing page
 </table>
 
 <p align="center">
-<a href="https://github.com/manumishra12?tab=repositories">
-<img src="https://img.shields.io/badge/%E2%96%B8_view_all_repositories-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" />
-</a>
+<a href="https://github.com/manumishra12?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%B8_view_all_repositories-c9d1d9?style=flat-square&labelColor=161b22&color=161b22" /></a>
 </p>
 
 <br/>
 
-### `$ cat publications.bib`
+### `$ cat proof.txt`
 
-```bibtex
-@inproceedings{mishra2024swin,
-    title     = {Cuffless Blood Pressure Estimation using SWIN Transformers},
-    author    = {Mishra, Manu},
-    booktitle = {IEEE Conference Proceedings},
-    year      = {2024},
-    lab       = {IIT BHU, Varanasi},
-    status    = {PUBLISHED},
-    url       = {https://ieeexplore.ieee.org/document/10958421},
-    abstract  = {Non-invasive BP estimation via signal-to-image conversion using
-                 bispectrum and bicoherence spectral features with SWIN Transformer
-                 backbone. Validated against AAMI/BHS international standards.}
-}
-
-@article{mishra2025fcl,
-    title   = {Federated Continual Learning: A Comprehensive Survey},
-    author  = {Mishra, Manu},
-    journal = {Under Review},
-    year    = {2025},
-    lab     = {IIT Hyderabad},
-    status  = {ONGOING},
-    note    = {186 FCL papers across 8 CL paradigms. Proposes novel six-dimensional
-               experimental setup taxonomy and dual-axis Paradigm-Setup matrix.}
-}
-
-@patent{mishra2024waste,
-    title   = {A System and Method for Automated Waste Segregation},
-    number  = {Indian Patent: 202441064693},
-    author  = {Mishra, Manu},
-    year    = {2024},
-    status  = {GRANTED},
-    url     = {https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails},
-    note    = {AI-powered construction waste segregation using CV-based classification
-               and conveyor sorting — 2x recycling throughput over manual methods.}
-}
+```
+IEEE      Cuffless BP Estimation · SWIN Transformers · IIT BHU · 2024
+PATENT    Automated Waste Segregation · IN 202441064693 · GRANTED
+SURVEY    Federated Continual Learning · 186 papers · under review
+HACKS     5x winner · SIH 2023 Grand Finalist · SIH 2022 Runner-up
 ```
 
-> 📄 [**IEEE Paper — Cuffless BP Estimation**](https://ieeexplore.ieee.org/document/10958421) &nbsp; · &nbsp; 🏛️ [**Indian Patent — 202441064693**](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)
+<sub>📄 [IEEE Paper](https://ieeexplore.ieee.org/document/10958421) &nbsp;·&nbsp; 🏛️ [Indian Patent 202441064693](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)</sub>
 
 <br/>
 
 ### `$ printenv STACK`
 
 ```
-LANGUAGES     = "Python, C++, Java, JavaScript, SQL"
-FRAMEWORKS    = "Spring Boot, Node.js, Express.js, React.js, Flask, REST APIs, Microservices, System Design"
-AI_ML         = "PyTorch, TensorFlow, Transformers, LLM Fine-tuning (LoRA/QLoRA), RAG, LangChain, LangGraph, Agentic AI"
-CLOUD_DEVOPS  = "AWS (EC2, S3, Lambda), Docker, Redis, Git, CI/CD, Linux"
-DATABASES     = "PostgreSQL, MongoDB, MySQL"
-OBSERVABILITY = "Langfuse, OpenTelemetry, Structured Logging"
-DESIGN        = "Figma, Adobe XD"
-COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Systems"
+LANGUAGES   Python · C++ · Java · JavaScript · SQL
+BACKEND     Spring Boot · Node · Express · Flask · REST · Microservices
+AI / ML     PyTorch · Transformers · LoRA/QLoRA · RAG · LangChain · LangGraph
+CLOUD       AWS (EC2 · S3 · Lambda) · Docker · Redis · CI/CD · Linux
+DATA        PostgreSQL · MongoDB · MySQL
+OBSERVE     Langfuse · OpenTelemetry · structured logging
 ```
 
 <br/>
 
-### `$ cat achievements.log`
+### `$ tree --more`
 
-```
-[2023-12]  GRAND FINALIST  Smart India Hackathon 2023 — 15th / 100+ teams nationwide
-[2022-11]  2ND PLACE       Smart India Hackathon 2022 — AI smart bin "Money Plant"
-[2022-03]  ROOKIE AWARD    Hackhub 2022 — Smart Attendance System (online + offline)
-[2021-xx]  1ST PRIZE       IoT Hackathon — Automated waste management solution
-[2019-xx]  1ST PRIZE       Smart India Hackathon 2019 — Pollution & garbage management
-```
+<details>
+<summary><code>$ cat /var/log/career.log --full</code> &nbsp;<sub>11 roles since 2021</sub></summary>
 
 <br/>
 
-### `$ cat certifications.txt`
+```
+CURRENT ─────────────────────────────────────────────────────────────
+
+ ⬢  Software Engineer            ZenMinds Technologies · Hyderabad
+    Jan 2026 – Present
+    · scalable backend microservices & REST APIs for ERP modules
+      (inventory, manufacturing, finance)
+    · 30% latency cut via Redis caching, query tuning, horizontal scaling
+    · OCR pipelines + AI orchestration for automated invoice processing
+    · LLM-agent powered dashboards & predictive reporting
+    · Python · Spring Boot · Redis · PostgreSQL · Docker · AWS
+
+ ⬢  Research Intern              IIT Hyderabad
+    Jan 2025 – Present
+    · Federated & Class-Incremental Learning; privacy-preserving AI
+    · surveying 186+ FCL papers across 8 continual-learning paradigms
+    · six-dimensional setup taxonomy + dual-axis Paradigm-Setup matrix
+
+2025 ────────────────────────────────────────────────────────────────
+
+ ◆  AI Engineer Intern           Mondee · Hyderabad   (Apr–Oct 2025)
+    · GenAI prompt pipelines for Aarna travel platform · 1K+ daily users
+    · agentic RAG (LangGraph/LangChain) · +25% query relevance
+    · distributed tracing via Langfuse + OpenTelemetry
+
+ ◆  Software Developer Intern    DigiQuanta · Hyderabad   (Jan–Mar 2025)
+    · RAG medical assistant over 5K+ records · -45% query latency
+    · voice-enabled multilingual diagnostic tool · sub-3s responses
+
+2024 ────────────────────────────────────────────────────────────────
+
+ ◇  Junior Researcher            IIT BHU · Varanasi   (Jun–Jul 2024)
+    · cuffless BP estimation from ECG/PPG · SWIN Transformer backbone
+    · bispectrum/bicoherence features · AAMI/BHS validated · IEEE pub
+
+ ◇  SDE Intern                   Growth Ventures (Remote)   (Feb–May 2024)
+    · features + QA across the digital services platform · +25% CSAT
+    · JavaScript · React · Node · REST
+
+ ◇  Machine Learning Intern      Growth Ventures (Remote)   (Dec 2023–Feb 2024)
+    · ML models for BI · preprocessing · feature eng · tuning
+    · Python · Scikit-Learn · TensorFlow · Pandas
+
+2023 ────────────────────────────────────────────────────────────────
+
+ ○  Full Stack Developer         Startuply (Remote)   (Aug 2023– )
+    · end-to-end web apps · third-party APIs · deploy + DB ops
+    · React · Node · Express · MongoDB
+
+ ○  Application Developer Intern RedeFin Capital (Remote)   (May–Sep 2023)
+    · wireframes + prototypes for fintech products · user flows
+    · Figma · Adobe XD
+
+ ○  UI/UX Designer               Nirji Ventures · Singapore (Remote)   (Feb–Jun 2023)
+    · requirements → specs · wireframes · hi-fi web + mobile designs
+    · Adobe XD · Figma
+
+2021 ────────────────────────────────────────────────────────────────
+
+ ○  Product Designer             Youngify · Bengaluru   (Sep–Nov 2021)
+    · UI/UX, wireframes & prototypes · visual identity for launch
+    · Figma · Adobe XD
+```
+
+</details>
+
+<details>
+<summary><code>$ cat achievements.log</code> &nbsp;<sub>5x hackathon winner</sub></summary>
+
+<br/>
 
 ```
-├── Machine Learning Pipelines with Azure ML Studio        Coursera
-├── Google Cloud Digital Leader Training                    Coursera
-├── Professional Cloud Security Engineer                    Coursera
-├── AWS Academy Cloud Foundations                           Coursera
-└── Create a No-code Responsive Website with Webflow        Coursera
+[2023-12]  GRAND FINALIST   Smart India Hackathon 2023 · 15th / 100+ teams
+[2022-11]  2ND PLACE        Smart India Hackathon 2022 · AI smart bin "Money Plant"
+[2022-03]  ROOKIE AWARD     Hackhub 2022 · Smart Attendance System
+[2021]     1ST PRIZE        IoT Hackathon · automated waste management
+[2019]     1ST PRIZE        Smart India Hackathon 2019 · pollution & garbage mgmt
 ```
+
+</details>
+
+<details>
+<summary><code>$ cat publications.bib</code></summary>
+
+<br/>
+
+```bibtex
+@inproceedings{mishra2024swin,
+  title     = {Cuffless Blood Pressure Estimation using SWIN Transformers},
+  author    = {Mishra, Manu},
+  booktitle = {IEEE Conference Proceedings},
+  year      = {2024},
+  lab       = {IIT BHU, Varanasi},
+  status    = {PUBLISHED},
+  url       = {https://ieeexplore.ieee.org/document/10958421}
+}
+
+@article{mishra2025fcl,
+  title   = {Federated Continual Learning: A Comprehensive Survey},
+  author  = {Mishra, Manu},
+  journal = {Under Review},
+  year    = {2025},
+  lab     = {IIT Hyderabad},
+  note    = {186 FCL papers · 8 CL paradigms · novel six-dimensional taxonomy}
+}
+
+@patent{mishra2024waste,
+  title  = {A System and Method for Automated Waste Segregation},
+  number = {Indian Patent: 202441064693},
+  author = {Mishra, Manu},
+  year   = {2024},
+  status = {GRANTED}
+}
+```
+
+</details>
+
+<details>
+<summary><code>$ cat certifications.txt</code> &nbsp;&middot;&nbsp; <code>education.conf</code></summary>
+
+<br/>
+
+```
+EDUCATION
+  Vellore Institute of Technology, Chennai
+  B.Tech — Computer Science & Engineering · CGPA 8.20 · Sep 2021–Sep 2025
+  Leads: REVA Special Team (Sponsorship) · HumanoidX · VITrendZ · Webster's
+
+CERTIFICATIONS
+  · Machine Learning Pipelines with Azure ML Studio        Coursera
+  · Google Cloud Digital Leader Training                   Coursera
+  · Professional Cloud Security Engineer                   Coursera
+  · AWS Academy Cloud Foundations                          Coursera
+  · No-code Responsive Website with Webflow                Coursera
+```
+
+</details>
 
 <br/>
 
 ### `$ neofetch`
 
 <div align="center">
-
-<img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manumishra12&theme=github_dark" alt="contribution heatmap" />
-
-<br/><br/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=manumishra12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=484f58&text_color=848d97&ring_color=484f58&count_private=true&hide_title=true" />
 &nbsp;
@@ -415,11 +337,7 @@ COURSEWORK    = "DSA, OOP, Machine Learning, Deep Learning, NLP, Distributed Sys
   <img alt="contribution snake" src="https://raw.githubusercontent.com/manumishra12/manumishra12/output/github-snake-dark.svg" width="560" />
 </picture>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=manumishra12&color=484f58&style=flat-square&label=visitors" />
 
