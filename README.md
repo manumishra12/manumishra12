@@ -113,7 +113,7 @@ Cuffless blood-pressure estimation from ECG & PPG signals using signal-to-image 
 </td>
 </tr>
 <tr>
-<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/gv.svg" width="36" alt="Growth Ventures" /></td>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/gv.png" width="36" alt="Growth Ventures" /></td>
 <td valign="top">
 
 **SDE Intern** &nbsp;·&nbsp; Growth Ventures &nbsp; <sub>Bengaluru · Remote · Feb → May 2024</sub>
@@ -125,7 +125,7 @@ Built features and improved functionality across the digital services platform; 
 </td>
 </tr>
 <tr>
-<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/gv.svg" width="36" alt="Growth Ventures" /></td>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/gv.png" width="36" alt="Growth Ventures" /></td>
 <td valign="top">
 
 **Machine Learning Intern** &nbsp;·&nbsp; Growth Ventures &nbsp; <sub>Remote · Dec 2023 → Feb 2024</sub>
@@ -149,7 +149,7 @@ End-to-end interactive web apps with full frontend + backend ownership; third-pa
 </td>
 </tr>
 <tr>
-<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/redefin.svg" width="36" alt="RedeFin Capital" /></td>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/redefin.png" width="36" alt="RedeFin Capital" /></td>
 <td valign="top">
 
 **Application Developer Intern** &nbsp;·&nbsp; RedeFin Capital &nbsp; <sub>Remote · May → Sep 2023</sub>
@@ -161,7 +161,7 @@ Designed wireframes & interactive prototypes for fintech products; defined and o
 </td>
 </tr>
 <tr>
-<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/nirji.svg" width="36" alt="Nirji Ventures" /></td>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/nirji.png" width="36" alt="Nirji Ventures" /></td>
 <td valign="top">
 
 **UI/UX Designer** &nbsp;·&nbsp; Nirji Ventures &nbsp; <sub>Singapore · Remote · Feb → Jun 2023</sub>
