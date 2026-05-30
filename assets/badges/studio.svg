@@ -1,0 +1,5 @@
+<svg viewBox="0 0 249 30" width="249" height="30" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,'SF Mono',Menlo,Monaco,monospace">
+  <rect x="0.5" y="0.5" width="248" height="29" rx="7" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(11,8.0) scale(0.5833)"><path d="m12 1.608 12 20.784H0Z" fill="#8b949e"/></g>
+  <text x="34" y="19.5" font-size="12.5"><tspan fill="#8b949e">Studio</tspan><tspan fill="#586069"> · </tspan><tspan fill="#c9d1d9">alt-dev.vercel.app</tspan></text>
+</svg>
