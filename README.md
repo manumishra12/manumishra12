@@ -16,12 +16,12 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/manu-mishra-688487211/"><img src="https://cdn.simpleicons.org/linkedin/8b949e" height="21" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:connectmanumishra@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8b949e" height="21" alt="Email" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/manumishra12"><img src="https://cdn.simpleicons.org/github/8b949e" height="21" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ManuMis69128338"><img src="https://cdn.simpleicons.org/x/8b949e" height="20" alt="X" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://cdn.simpleicons.org/hackerrank/8b949e" height="21" alt="HackerRank" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://hashnode.com/@ManuMishra12"><img src="https://cdn.simpleicons.org/hashnode/8b949e" height="21" alt="Hashnode" /></a>
+<a href="https://www.linkedin.com/in/manu-mishra-688487211/"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/linkedin.svg" height="21" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:connectmanumishra@gmail.com"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/gmail.svg" height="21" alt="Email" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/manumishra12"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/github.svg" height="21" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ManuMis69128338"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/x.svg" height="20" alt="X" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/Manu_Mishra"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/hackerrank.svg" height="21" alt="HackerRank" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://hashnode.com/@ManuMishra12"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/icons/hashnode.svg" height="21" alt="Hashnode" /></a>
 
 <br/><br/>
 
@@ -51,93 +51,140 @@ the user's side before writing a line of code.
 
 <sub>11 roles · design → full-stack → AI/ML → systems · 2021 → present</sub>
 
-```
-CURRENT ───────────────────────────────────────────────────────────────────
+<table>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://www.google.com/s2/favicons?domain=zenminds.ai&sz=128" width="36" alt="ZenMinds Technologies" /></td>
+<td valign="top">
 
-⬢  Software Engineer · ZenMinds Technologies — Hyderabad         Jan 2026 → now
-   · scalable backend microservices & RESTful APIs for enterprise ERP
-     modules spanning inventory, manufacturing & finance
-   · 30% API latency improvement — Redis caching, query optimization,
-     horizontal scaling patterns
-   · OCR document pipelines & AI orchestration layers wired into ERP
-     workflows for automated invoice processing
-   · intelligent dashboard generation & predictive reporting via LLM agents
-   · async task queues, structured logging & centralized error tracing
-   → Python · Spring Boot · Redis · PostgreSQL · Docker · AWS
+**Software Engineer** &nbsp;·&nbsp; [ZenMinds Technologies](https://zenminds.ai/) &nbsp; <sub>Hyderabad · Jan 2026 → now</sub>
 
-⬢  Research Intern · IIT Hyderabad                               Jan 2025 → now
-   · Federated & Class-Incremental Learning — privacy-preserving, scalable
-     AI for continual model improvement
-   · surveying 186+ FCL papers across 8 continual-learning paradigms
-   · proposing a six-dimensional experimental-setup taxonomy &
-     dual-axis Paradigm-Setup matrix
-   · tackling spatial-temporal catastrophic forgetting under non-IID data
-   → PyTorch · Federated Learning · Continual Learning
+Scalable backend microservices & REST APIs for enterprise ERP (inventory, manufacturing, finance). 30% latency cut via Redis caching and query optimization; OCR document pipelines, AI-orchestration layers, and LLM-agent dashboards wired into ERP workflows.
 
-2025 ──────────────────────────────────────────────────────────────────────
+<sub>`Python` · `Spring Boot` · `Redis` · `PostgreSQL` · `Docker` · `AWS`</sub>
 
-◆  AI Engineer Intern · Mondee — Hyderabad                      Apr → Oct 2025
-   · designed & optimized GenAI prompt pipelines for Aarna (AI travel
-     platform) — personalized itinerary generation
-   · served 1K+ daily users on AWS (EC2, S3) — auto-scaling + load balancing
-   · agentic RAG with LangGraph, LangChain & custom ML — +25% relevance
-   · distributed tracing via Langfuse & OpenTelemetry
-   → Python · LangChain · LangGraph · AWS · Langfuse · OpenTelemetry
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://www.google.com/s2/favicons?domain=iith.ac.in&sz=128" width="36" alt="IIT Hyderabad" /></td>
+<td valign="top">
 
-◆  Software Developer Intern · DigiQuanta — Hyderabad           Jan → Mar 2025
-   · RAG medical assistant — embeddings + vector retrieval over 5K+ records
-   · -45% diagnostic query latency via chunking & re-ranking strategies
-   · voice-enabled multilingual diagnostic tool (speech + GenAI APIs)
-   · sub-3s responses — cloud REST endpoints, centralized logging
-   → Python · Flask · Embeddings · Vector DBs · Speech APIs
+**Research Intern** &nbsp;·&nbsp; [IIT Hyderabad](https://iith.ac.in/) &nbsp; <sub>Remote · Jan 2025 → now</sub>
 
-2024 ──────────────────────────────────────────────────────────────────────
+Federated & Class-Incremental Learning for privacy-preserving, scalable continual model improvement. Surveying 186+ FCL papers across 8 paradigms; proposing a six-dimensional setup taxonomy and a dual-axis Paradigm-Setup matrix.
 
-◇  Junior Researcher · IIT BHU — Varanasi                       Jun → Jul 2024
-   · cuffless blood-pressure estimation from ECG & PPG signals
-   · signal-to-image conversion with bispectrum & bicoherence features
-   · SWIN Transformer backbone — high systolic & diastolic accuracy
-   · validated vs AAMI/BHS standards · published at IEEE
-   → Python · PyTorch · SWIN Transformers · Signal Processing
+<sub>`PyTorch` · `Federated Learning` · `Continual Learning`</sub>
 
-◇  SDE Intern · Growth Ventures — Bengaluru (Remote)            Feb → May 2024
-   · built features & improved functionality across the services platform
-   · custom strategies & technical solutions for client growth
-   · rigorous testing & QA cycles — +25% user satisfaction
-   → JavaScript · React · Node · REST APIs
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://www.google.com/s2/favicons?domain=mondee.com&sz=128" width="36" alt="Mondee" /></td>
+<td valign="top">
 
-◇  Machine Learning Intern · Growth Ventures (Remote)           Dec 2023 → Feb 2024
-   · developed, optimized & evaluated ML models for BI applications
-   · designed ML algorithms, architectures & training techniques
-   · preprocessing · feature engineering · model selection · tuning
-   → Python · Scikit-Learn · TensorFlow · Pandas
+**AI Engineer Intern** &nbsp;·&nbsp; [Mondee](https://www.mondee.com/) &nbsp; <sub>Hyderabad · Apr → Oct 2025</sub>
 
-2023 ──────────────────────────────────────────────────────────────────────
+Designed & optimized GenAI prompt pipelines for Aarna, Mondee's AI travel platform serving 1K+ daily users on AWS. Built an agentic RAG workflow (LangGraph + LangChain + custom ML) that lifted query relevance 25%, with distributed tracing via Langfuse + OpenTelemetry.
 
-○  Full Stack Developer · Startuply (Remote)                    Aug 2023 → now
-   · interactive web apps — end-to-end frontend + backend ownership
-   · third-party API integration & RESTful services
-   · deployment pipelines & production database operations
-   → ReactJS · Node · Express · MongoDB
+<sub>`Python` · `LangChain` · `LangGraph` · `AWS` · `Langfuse`</sub>
 
-○  Application Developer Intern · RedeFin Capital (Remote)      May → Sep 2023
-   · wireframes & interactive prototypes for fintech products
-   · defined & optimized user flows, navigation & interaction models
-   → Figma · Adobe XD · UI/UX
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/dq.svg" width="36" alt="DigiQuanta" /></td>
+<td valign="top">
 
-○  UI/UX Designer · Nirji Ventures — Singapore (Remote)         Feb → Jun 2023
-   · stakeholder requirements → design specifications
-   · wireframes, prototypes & hi-fi designs across web & mobile
-   · iterated on user feedback & usability testing
-   → Adobe XD · Figma · Prototyping
+**Software Developer Intern** &nbsp;·&nbsp; [DigiQuanta](https://digiquanta.com/) &nbsp; <sub>Hyderabad · Jan → Mar 2025</sub>
 
-2021 ──────────────────────────────────────────────────────────────────────
+Built a RAG-based medical assistant over 5K+ healthcare records, cutting diagnostic query latency 45% via optimized chunking and re-ranking. Added a voice-enabled multilingual diagnostic tool with sub-3s responses.
 
-○  Product Designer · Youngify — Bengaluru                      Sep → Nov 2021
-   · UI/UX designs, wireframes & prototypes for early-stage product
-   · user flows, design documentation & visual identity for launch
-   → Figma · Adobe XD · Design Systems
-```
+<sub>`Python` · `Flask` · `Vector DBs` · `Speech APIs`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://www.google.com/s2/favicons?domain=iitbhu.ac.in&sz=128" width="36" alt="IIT (BHU) Varanasi" /></td>
+<td valign="top">
+
+**Junior Researcher** &nbsp;·&nbsp; [IIT (BHU) Varanasi](https://iitbhu.ac.in/) &nbsp; <sub>Varanasi · Jun → Jul 2024</sub>
+
+Cuffless blood-pressure estimation from ECG & PPG signals using signal-to-image conversion with bispectrum/bicoherence features and a SWIN Transformer backbone. Validated against AAMI/BHS standards; published at IEEE.
+
+<sub>`Python` · `PyTorch` · `SWIN Transformers` · `Signal Processing`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/gv.svg" width="36" alt="Growth Ventures" /></td>
+<td valign="top">
+
+**SDE Intern** &nbsp;·&nbsp; Growth Ventures &nbsp; <sub>Bengaluru · Remote · Feb → May 2024</sub>
+
+Built features and improved functionality across the digital services platform; designed technical solutions for client growth and ran rigorous QA, lifting user satisfaction 25%.
+
+<sub>`JavaScript` · `React` · `Node` · `REST`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/gv.svg" width="36" alt="Growth Ventures" /></td>
+<td valign="top">
+
+**Machine Learning Intern** &nbsp;·&nbsp; Growth Ventures &nbsp; <sub>Remote · Dec 2023 → Feb 2024</sub>
+
+Developed, optimized & evaluated ML models for business-intelligence applications — preprocessing, feature engineering, model selection, and hyperparameter tuning.
+
+<sub>`Python` · `Scikit-Learn` · `TensorFlow` · `Pandas`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/startuply.svg" width="36" alt="Startuply" /></td>
+<td valign="top">
+
+**Full Stack Developer** &nbsp;·&nbsp; Startuply &nbsp; <sub>Remote · Aug 2023 → now</sub>
+
+End-to-end interactive web apps with full frontend + backend ownership; third-party API integration, RESTful services, and production deployment + database operations.
+
+<sub>`ReactJS` · `Node` · `Express` · `MongoDB`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/redefin.svg" width="36" alt="RedeFin Capital" /></td>
+<td valign="top">
+
+**Application Developer Intern** &nbsp;·&nbsp; RedeFin Capital &nbsp; <sub>Remote · May → Sep 2023</sub>
+
+Designed wireframes & interactive prototypes for fintech products; defined and optimized user flows, navigation, and interaction models with the product team.
+
+<sub>`Figma` · `Adobe XD` · `UI/UX`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/nirji.svg" width="36" alt="Nirji Ventures" /></td>
+<td valign="top">
+
+**UI/UX Designer** &nbsp;·&nbsp; Nirji Ventures &nbsp; <sub>Singapore · Remote · Feb → Jun 2023</sub>
+
+Translated stakeholder requirements into design specs; produced wireframes, prototypes, and hi-fi designs across web & mobile, iterating on user feedback and usability testing.
+
+<sub>`Adobe XD` · `Figma` · `Prototyping`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50" valign="top" align="center"><img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/assets/logos/youngify.svg" width="36" alt="Youngify" /></td>
+<td valign="top">
+
+**Product Designer** &nbsp;·&nbsp; Youngify &nbsp; <sub>Bengaluru · Sep → Nov 2021</sub>
+
+UI/UX designs, wireframes & prototypes for early-stage product conceptualization; built user flows, design documentation, and visual identity for launch.
+
+<sub>`Figma` · `Adobe XD` · `Design Systems`</sub>
+
+</td>
+</tr>
+</table>
 
 ### `$ status`
 
@@ -231,7 +278,9 @@ SURVEY    Federated Continual Learning · 186 papers · under review
 HACKS     5x winner · SIH 2023 Grand Finalist · SIH 2022 Runner-up
 ```
 
-<sub>📄 [IEEE Paper](https://ieeexplore.ieee.org/document/10958421) &nbsp;·&nbsp; 🏛️ [Indian Patent 202441064693](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)</sub>
+[![IEEE Paper](https://img.shields.io/badge/IEEE-read_the_paper-161b22?style=flat-square&logo=ieee&logoColor=8b949e&labelColor=161b22&color=161b22)](https://ieeexplore.ieee.org/document/10958421)
+&nbsp;
+[![Indian Patent](https://img.shields.io/badge/Patent-IN_202441064693-161b22?style=flat-square&logo=googlescholar&logoColor=8b949e&labelColor=161b22&color=161b22)](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/PatentDetails)
 
 ### `$ printenv STACK`
 
@@ -319,33 +368,6 @@ CERTIFICATIONS
 ```
 
 </details>
-
-<!-- chess-start -->
-
-### `$ ./chess --play`
-
-> **It's your move — anyone can play.** Move a **white** piece: click a destination link below, press **Create** on the issue that opens, and the board redraws in ~30s.
-
-<img src="https://raw.githubusercontent.com/manumishra12/manumishra12/main/chess/board.svg?v=0" width="380" alt="chess board — white to move" />
-
-**WHITE to move** &nbsp;·&nbsp; pick a piece, then a destination:
-
-| piece | move it to |
-| :---: | :--- |
-| **A2** | [A3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Ca2a3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [A4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Ca2a4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **B1** | [A3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cb1a3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [C3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cb1c3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **B2** | [B3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cb2b3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [B4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cb2b4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **C2** | [C3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cc2c3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [C4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cc2c4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **D2** | [D3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cd2d3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [D4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cd2d4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **E2** | [E3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Ce2e3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [E4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Ce2e4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **F2** | [F3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cf2f3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [F4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cf2f4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **G1** | [F3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cg1f3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [H3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cg1h3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **G2** | [G3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cg2g3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [G4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Cg2g4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-| **H2** | [H3](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Ch2h3%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) &nbsp; [H4](https://github.com/manumishra12/manumishra12/issues/new?title=chess%7Cmove%7Ch2h4%7C0&body=Just%20press%20the%20green%20%2A%2ACreate%2A%2A%20%2F%20%2A%2ASubmit%20new%20issue%2A%2A%20button%20below%20%E2%80%94%20you%20do%20not%20need%20to%20type%20or%20change%20anything.%20The%20board%20on%20the%20profile%20updates%20automatically%20in%20about%2030%20seconds.%20Thanks%20for%20playing%21%20%3A%29) |
-
-<sub>♟ real game · a GitHub Action validates each move with [python-chess](https://python-chess.readthedocs.io) and redraws the board · idea from [@timburgan](https://github.com/timburgan)</sub>
-
-<!-- chess-end -->
 
 ### `$ neofetch`
 
